@@ -1,17 +1,30 @@
 import React from 'react';
-import ItemForm from '../components/ItemForm';
-import ItemList from '../components/ItemList';
-import useItemList from '../hooks/useItemList';
-// import styles from '../styles/globals.scss';
+import Section from '../components/Section';
+import AddSectionForm from '../components/AddSectionForm';
+import useSections from '../hooks/useSections';
+import styles from '../styles/Home.module.scss';
 
 const Home: React.FC = () => {
-    const { items, addItem } = useItemList();
+    const { sections, addSection, addItemToSection } = useSections();
 
     return (
-        <div className="App">
-        <h1>eBay Price Tracker</h1>
-        <ItemForm addItem={addItem} />
-        <ItemList items={items} />
+        <div className={styles.container}>
+            <div className={styles.container__header}>
+                <h1>Welcome to Ebay Price Tracker</h1>
+                <AddSectionForm addSection={addSection} />
+            </div>
+
+        <div className={styles.sections}>
+            {sections.map(section => (
+            <Section
+                key={section.id}
+                id={section.id}
+                title={section.title}
+                items={section.items}
+                addItem={addItemToSection}
+            />
+            ))}
+        </div>
         </div>
     );
 };
