@@ -5,13 +5,13 @@ import { Item } from '../hooks/useSections';
 import styles from '../styles/Section.module.scss';
 
 interface SectionProps {
-    id: number;
+    id: string;
     title: string;
     items: Item[];
-    addItem: (sectionId: number, item: Item) => void;
+    addItem: (sectionId: string, item: Item) => void;
 }
 
-const Section: React.FC<SectionProps> = ({ id, title, items, addItem }) => {
+    const Section: React.FC<SectionProps> = ({ id, title, items, addItem }) => {
     const handleAddItem = (item: Item) => {
         addItem(id, item);
     };
