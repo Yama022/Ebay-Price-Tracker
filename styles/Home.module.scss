@@ -1,3 +1,5 @@
+@import 'variables';
+
 .container {
     display: flex;
     flex-direction: column;
@@ -5,9 +7,7 @@
     padding: 20px;
     margin: auto;
     width: 80%;
-    border: 1px solid red;
     &__header {
-        border: 1px solid green;
         width: 100%;
         margin: auto;
         display: flex;
@@ -15,13 +15,12 @@
         &__section {
             margin: auto;
             h1 {
-                color: red;
+                color: 	$redLight;
             }
         }
         
         &__login {
             
-            border: 1px solid blue;
             display: flex;
             align-items: flex-end;
             padding: 10px;
@@ -45,5 +44,4 @@
     justify-content: space-around;
     align-items: flex-start;
     flex-wrap: wrap;
-    border: 1px solid blue;
 }

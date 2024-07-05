@@ -1,0 +1,5373 @@
+[
+    {
+        "serie": "Black Star Nintendo",
+        "cartes": [
+            {
+                "name": "Kyogre ex 1/40"
+            },
+            {
+                "name": "Groudon ex 2/40"
+            },
+            {
+                "name": "Arcko 3/40"
+            },
+            {
+                "name": "Massko 4/40"
+            },
+            {
+                "name": "Gobou 5/40"
+            },
+            {
+                "name": "Poussifeu 6/40"
+            },
+            {
+                "name": "Arcko 7/40"
+            },
+            {
+                "name": "Poussifeu 8/40"
+            },
+            {
+                "name": "Galifeu 9/40"
+            },
+            {
+                "name": "Gobou 10/40"
+            },
+            {
+                "name": "Flobio 11/40"
+            },
+            {
+                "name": "Pikachu 12/40"
+            },
+            {
+                "name": "Miaouss 13/40"
+            },
+            {
+                "name": "Latias 14/40"
+            },
+            {
+                "name": "Latios 15/40"
+            },
+            {
+                "name": "Arcko 16/40"
+            },
+            {
+                "name": "Poussifeu 17/40"
+            },
+            {
+                "name": "Gobou 18/40"
+            },
+            {
+                "name": "Chuchmur 19/40"
+            },
+            {
+                "name": "Ludicolo 20/40"
+            },
+            {
+                "name": "Jirachi 21/40"
+            },
+            {
+                "name": "Terhal 22/40"
+            },
+            {
+                "name": "M\u00e9tang 23/40"
+            },
+            {
+                "name": "\u00c9oko 24/40"
+            },
+            {
+                "name": "Lib\u00e9gon 25/40"
+            },
+            {
+                "name": "Vent tropical 26/40"
+            },
+            {
+                "name": "Raz-de-mar\u00e9e tropical 27/40"
+            },
+            {
+                "name": "Ar\u00e8ne de Championnat 28/40"
+            },
+            {
+                "name": "Celebi 29/40"
+            },
+            {
+                "name": "Suicune 30/40"
+            },
+            {
+                "name": "Sulfura ex 31/40"
+            },
+            {
+                "name": "Artikodin ex 32/40"
+            },
+            {
+                "name": "\u00c9lecthor ex 33/40"
+            },
+            {
+                "name": "Typhlosion 34/40"
+            },
+            {
+                "name": "Pikachu \u03b4 Esp\u00e8ces Delta 35/40"
+            },
+            {
+                "name": "Raz-de-mar\u00e9e tropical 36/40"
+            },
+            {
+                "name": "Kyogre ex 37/40"
+            },
+            {
+                "name": "Groudon ex 38/40"
+            },
+            {
+                "name": "Rayquaza ex 39/40"
+            },
+            {
+                "name": "Mew 40/40"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Rubis & Saphir",
+        "cartes": [
+            {
+                "name": "Galeking 1/109"
+            },
+            {
+                "name": "Charmillon 2/109"
+            },
+            {
+                "name": "Bras\u00e9gali 3/109"
+            },
+            {
+                "name": "Cam\u00e9rupt 4/109"
+            },
+            {
+                "name": "Delcatty 5/109"
+            },
+            {
+                "name": "Papinox 6/109"
+            },
+            {
+                "name": "Gardevoir 7/109"
+            },
+            {
+                "name": "Hariyama 8/109"
+            },
+            {
+                "name": "\u00c9lecsprint 9/109"
+            },
+            {
+                "name": "Grahy\u00e8na 10/109"
+            },
+            {
+                "name": "Jungko 11/109"
+            },
+            {
+                "name": "Monafl\u00e8mit 12/109"
+            },
+            {
+                "name": "Laggron 13/109"
+            },
+            {
+                "name": "Wailord 14/109"
+            },
+            {
+                "name": "Bras\u00e9gali 15/109"
+            },
+            {
+                "name": "Chapignon 16/109"
+            },
+            {
+                "name": "Donphan 17/109"
+            },
+            {
+                "name": "Tarinor 18/109"
+            },
+            {
+                "name": "Bekipan 19/109"
+            },
+            {
+                "name": "Jungko 20/109"
+            },
+            {
+                "name": "Poissoroy 21/109"
+            },
+            {
+                "name": "Sharpedo 22/109"
+            },
+            {
+                "name": "Laggron 23/109"
+            },
+            {
+                "name": "Smogogo 24/109"
+            },
+            {
+                "name": "Galekid 25/109"
+            },
+            {
+                "name": "Blindalys 26/109"
+            },
+            {
+                "name": "Galifeu 27/109"
+            },
+            {
+                "name": "Galifeu 28/109"
+            },
+            {
+                "name": "Delcatty 29/109"
+            },
+            {
+                "name": "Dynavolt 30/109"
+            },
+            {
+                "name": "Massko 31/109"
+            },
+            {
+                "name": "Massko 32/109"
+            },
+            {
+                "name": "Hariyama 33/109"
+            },
+            {
+                "name": "Kirlia 34/109"
+            },
+            {
+                "name": "Kirlia 35/109"
+            },
+            {
+                "name": "Galegon 36/109"
+            },
+            {
+                "name": "Galegon 37/109"
+            },
+            {
+                "name": "Lin\u00e9on 38/109"
+            },
+            {
+                "name": "\u00c9lecsprint 39/109"
+            },
+            {
+                "name": "Flobio 40/109"
+            },
+            {
+                "name": "Flobio 41/109"
+            },
+            {
+                "name": "Grahy\u00e8na 42/109"
+            },
+            {
+                "name": "Armulys 43/109"
+            },
+            {
+                "name": "Skitty 44/109"
+            },
+            {
+                "name": "Parecool 45/109"
+            },
+            {
+                "name": "H\u00e9l\u00e9delle 46/109"
+            },
+            {
+                "name": "Vigoroth 47/109"
+            },
+            {
+                "name": "Wailmer 48/109"
+            },
+            {
+                "name": "Galekid 49/109"
+            },
+            {
+                "name": "Galekid 50/109"
+            },
+            {
+                "name": "Carvanha 51/109"
+            },
+            {
+                "name": "Dynavolt 52/109"
+            },
+            {
+                "name": "Dynavolt 53/109"
+            },
+            {
+                "name": "Smogo 54/109"
+            },
+            {
+                "name": "Poissir\u00e8ne 55/109"
+            },
+            {
+                "name": "Makuhita 56/109"
+            },
+            {
+                "name": "Makuhita 57/109"
+            },
+            {
+                "name": "Makuhita 58/109"
+            },
+            {
+                "name": "Gobou 59/109"
+            },
+            {
+                "name": "Gobou 60/109"
+            },
+            {
+                "name": "Chamallot 61/109"
+            },
+            {
+                "name": "Phanpy 62/109"
+            },
+            {
+                "name": "Medhy\u00e8na 63/109"
+            },
+            {
+                "name": "Medhy\u00e8na 64/109"
+            },
+            {
+                "name": "Medhy\u00e8na 65/109"
+            },
+            {
+                "name": "Tarsal 66/109"
+            },
+            {
+                "name": "Tarsal 67/109"
+            },
+            {
+                "name": "Tarsal 68/109"
+            },
+            {
+                "name": "Balignon 69/109"
+            },
+            {
+                "name": "Skitty 70/109"
+            },
+            {
+                "name": "Skitty 71/109"
+            },
+            {
+                "name": "Nirondelle 72/109"
+            },
+            {
+                "name": "Poussifeu 73/109"
+            },
+            {
+                "name": "Poussifeu 74/109"
+            },
+            {
+                "name": "Arcko 75/109"
+            },
+            {
+                "name": "Arcko 76/109"
+            },
+            {
+                "name": "Go\u00e9lise 77/109"
+            },
+            {
+                "name": "Chenipotte 78/109"
+            },
+            {
+                "name": "Zigzaton 79/109"
+            },
+            {
+                "name": "Suppression d'\u00c9nergie 2 80/109"
+            },
+            {
+                "name": "Restauration d'\u00c9nergie 81/109"
+            },
+            {
+                "name": "\u00c9change d'\u00e9nergie 82/109"
+            },
+            {
+                "name": "Mademoiselle Sortie 83/109"
+            },
+            {
+                "name": "Baie Prine 84/109"
+            },
+            {
+                "name": "Baie Oran 85/109"
+            },
+            {
+                "name": "Pok\u00e9 Ball 86/109"
+            },
+            {
+                "name": "Inversion de Pok\u00e9mon 87/109"
+            },
+            {
+                "name": "Pok\u00e9Nav 88/109"
+            },
+            {
+                "name": "Prof. Seko 89/109"
+            },
+            {
+                "name": "Recherche d'\u00c9nergie 90/109"
+            },
+            {
+                "name": "Potion 91/109"
+            },
+            {
+                "name": "Passe-passe 92/109"
+            },
+            {
+                "name": "\u00c9nergie Obscurit\u00e9 93/109"
+            },
+            {
+                "name": "\u00c9nergie M\u00e9tal 94/109"
+            },
+            {
+                "name": "\u00c9nergie Multicolore 95/109"
+            },
+            {
+                "name": "Leveinard ex 96/109"
+            },
+            {
+                "name": "\u00c9lektek ex 97/109"
+            },
+            {
+                "name": "Tygnon ex 98/109"
+            },
+            {
+                "name": "Lokhlass ex 99/109"
+            },
+            {
+                "name": "Magmar ex 100/109"
+            },
+            {
+                "name": "Mewtwo ex 101/109"
+            },
+            {
+                "name": "Ins\u00e9cateur ex 102/109"
+            },
+            {
+                "name": "Farfuret ex 103/109"
+            },
+            {
+                "name": "\u00c9nergie Plante 104/109"
+            },
+            {
+                "name": "\u00c9nergie Combat 105/109"
+            },
+            {
+                "name": "Energie Eau 106/109"
+            },
+            {
+                "name": "\u00c9nergie Psy 107/109"
+            },
+            {
+                "name": "\u00c9nergie Feu 108/109"
+            },
+            {
+                "name": "\u00c9nergie \u00c9lectrique 109/109"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Temp\u00eate de Sable",
+        "cartes": [
+            {
+                "name": "Armaldo 1/100"
+            },
+            {
+                "name": "Cacturne 2/100"
+            },
+            {
+                "name": "Vacilys 3/100"
+            },
+            {
+                "name": "Teraclope 4/100"
+            },
+            {
+                "name": "Pyroli 5/100"
+            },
+            {
+                "name": "Voltali 6/100"
+            },
+            {
+                "name": "Ludicolo 7/100"
+            },
+            {
+                "name": "S\u00e9l\u00e9roc 8/100"
+            },
+            {
+                "name": "Mysdibule 9/100"
+            },
+            {
+                "name": "T\u00e9n\u00e9fix 10/100"
+            },
+            {
+                "name": "Seviper 11/100"
+            },
+            {
+                "name": "Tengalice 12/100"
+            },
+            {
+                "name": "Solaroc 13/100"
+            },
+            {
+                "name": "Mangriff 14/100"
+            },
+            {
+                "name": "Arcanin 15/100"
+            },
+            {
+                "name": "Mentali 16/100"
+            },
+            {
+                "name": "Akwakwak 17/100"
+            },
+            {
+                "name": "Kecleon 18/100"
+            },
+            {
+                "name": "Amonistar 19/100"
+            },
+            {
+                "name": "Pichu 20/100"
+            },
+            {
+                "name": "Sablaireau 21/100"
+            },
+            {
+                "name": "Tengalice 22/100"
+            },
+            {
+                "name": "Steelix 23/100"
+            },
+            {
+                "name": "Noctali 24/100"
+            },
+            {
+                "name": "Aquali 25/100"
+            },
+            {
+                "name": "Qulbutoke 26/100"
+            },
+            {
+                "name": "Anorith 27/100"
+            },
+            {
+                "name": "Anorith 28/100"
+            },
+            {
+                "name": "Arbok 29/100"
+            },
+            {
+                "name": "Azumarill 30/100"
+            },
+            {
+                "name": "Azurill 31/100"
+            },
+            {
+                "name": "Balbuto 32/100"
+            },
+            {
+                "name": "Chapignon 33/100"
+            },
+            {
+                "name": "Delcatty 34/100"
+            },
+            {
+                "name": "Elektek 35/100"
+            },
+            {
+                "name": "Elekid 36/100"
+            },
+            {
+                "name": "Rapasdepic 37/100"
+            },
+            {
+                "name": "Lumivole 38/100"
+            },
+            {
+                "name": "Kabuto 39/100"
+            },
+            {
+                "name": "Kirlia 40/100"
+            },
+            {
+                "name": "Galegon 41/100"
+            },
+            {
+                "name": "Lilia 42/100"
+            },
+            {
+                "name": "Lilia 43/100"
+            },
+            {
+                "name": "Lineon 44/100"
+            },
+            {
+                "name": "Lombre 45/100"
+            },
+            {
+                "name": "Lombre 46/100"
+            },
+            {
+                "name": "Corn\u00e8bre 47/100"
+            },
+            {
+                "name": "Pifeuil 48/100"
+            },
+            {
+                "name": "Pifeuil 49/100"
+            },
+            {
+                "name": "Bekipan 50/100"
+            },
+            {
+                "name": "Feurisson 51/100"
+            },
+            {
+                "name": "Vigoroth 52/100"
+            },
+            {
+                "name": "Muciole 53/100"
+            },
+            {
+                "name": "Ok\u00e9ok\u00e9 54/100"
+            },
+            {
+                "name": "Xatu 55/100"
+            },
+            {
+                "name": "Galekid 56/100"
+            },
+            {
+                "name": "Cacn\u00e9a 57/100"
+            },
+            {
+                "name": "Cacn\u00e9a 58/100"
+            },
+            {
+                "name": "H\u00e9ricendre 59/100"
+            },
+            {
+                "name": "Insolourdo 60/100"
+            },
+            {
+                "name": "Skelenox 61/100"
+            },
+            {
+                "name": "Skelenox 62/100"
+            },
+            {
+                "name": "Evoli 63/100"
+            },
+            {
+                "name": "Abo 64/100"
+            },
+            {
+                "name": "Caninos 65/100"
+            },
+            {
+                "name": "Nenupiot 66/100"
+            },
+            {
+                "name": "Nenupiot 67/100"
+            },
+            {
+                "name": "Marill 68/100"
+            },
+            {
+                "name": "Natu 69/100"
+            },
+            {
+                "name": "Amonita 70/100"
+            },
+            {
+                "name": "Onix 71/100"
+            },
+            {
+                "name": "Pikachu 72/100"
+            },
+            {
+                "name": "Psykokwak 73/100"
+            },
+            {
+                "name": "Tarsal 74/100"
+            },
+            {
+                "name": "Sabelette 75/100"
+            },
+            {
+                "name": "Grainipiot 76/100"
+            },
+            {
+                "name": "Grainipiot 77/100"
+            },
+            {
+                "name": "Balignon 78/100"
+            },
+            {
+                "name": "Skitty 79/100"
+            },
+            {
+                "name": "Parecool 80/100"
+            },
+            {
+                "name": "Piafabec 81/100"
+            },
+            {
+                "name": "Kraknoix 82/100"
+            },
+            {
+                "name": "Wailmer 83/100"
+            },
+            {
+                "name": "Goelise 84/100"
+            },
+            {
+                "name": "Zigzaton 85/100"
+            },
+            {
+                "name": "Double gu\u00e9rison totale 86/100"
+            },
+            {
+                "name": "Annette surfe sur le net 87/100"
+            },
+            {
+                "name": "Super bonbon 88/100"
+            },
+            {
+                "name": "Timmy au dressage 89/100"
+            },
+            {
+                "name": "Fossile griffe 90/100"
+            },
+            {
+                "name": "Myst\u00e9rieux Fossile 91/100"
+            },
+            {
+                "name": "Fossile racine 92/100"
+            },
+            {
+                "name": "\u00c9nergies multiples 93/100"
+            },
+            {
+                "name": "Ptera ex 94/100"
+            },
+            {
+                "name": "Galeking ex 95/100"
+            },
+            {
+                "name": "Gardevoir ex 96/100"
+            },
+            {
+                "name": "Kabutops ex 97/100"
+            },
+            {
+                "name": "Raichu ex 98/100"
+            },
+            {
+                "name": "Typhlosion ex 99/100"
+            },
+            {
+                "name": "Wailord ex 100/100"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Dragon",
+        "cartes": [
+            {
+                "name": "Absol 1/97"
+            },
+            {
+                "name": "Altaria 2/97"
+            },
+            {
+                "name": "Colhomard 3/97"
+            },
+            {
+                "name": "Lib\u00e9gon 4/97"
+            },
+            {
+                "name": "Grolem 5/97"
+            },
+            {
+                "name": "Groret 6/97"
+            },
+            {
+                "name": "Negapi 7/97"
+            },
+            {
+                "name": "Posipi 8/97"
+            },
+            {
+                "name": "Roselia 9/97"
+            },
+            {
+                "name": "Drattak 10/97"
+            },
+            {
+                "name": "Munja 11/97"
+            },
+            {
+                "name": "Chartor 12/97"
+            },
+            {
+                "name": "Colhomard 13/97"
+            },
+            {
+                "name": "Draco 14/97"
+            },
+            {
+                "name": "Lib\u00e9gon 15/97"
+            },
+            {
+                "name": "Girafarig 16/97"
+            },
+            {
+                "name": "Magneton 17/97"
+            },
+            {
+                "name": "Ninjask 18/97"
+            },
+            {
+                "name": "Drattak 19/97"
+            },
+            {
+                "name": "Drackhaus 20/97"
+            },
+            {
+                "name": "Airmure 21/97"
+            },
+            {
+                "name": "Vibraninf 22/97"
+            },
+            {
+                "name": "Draby 23/97"
+            },
+            {
+                "name": "Camerupt 24/97"
+            },
+            {
+                "name": "Galifeu 25/97"
+            },
+            {
+                "name": "Minidraco 26/97"
+            },
+            {
+                "name": "Lainergie 27/97"
+            },
+            {
+                "name": "Foretress 28/97"
+            },
+            {
+                "name": "Gravalanch 29/97"
+            },
+            {
+                "name": "Gravalanch 30/97"
+            },
+            {
+                "name": "Massko 31/97"
+            },
+            {
+                "name": "L\u00e9viator 32/97"
+            },
+            {
+                "name": "Hypotrempe 33/97"
+            },
+            {
+                "name": "D\u00e9molosse 34/97"
+            },
+            {
+                "name": "Magneton 35/97"
+            },
+            {
+                "name": "Flobio 36/97"
+            },
+            {
+                "name": "Meditikka 37/97"
+            },
+            {
+                "name": "Ninjask 38/97"
+            },
+            {
+                "name": "Hypoc\u00e9an 39/97"
+            },
+            {
+                "name": "Hypoc\u00e9an 40/97"
+            },
+            {
+                "name": "Drackhaus 41/97"
+            },
+            {
+                "name": "Drackhaus 42/97"
+            },
+            {
+                "name": "Polichombr 43/97"
+            },
+            {
+                "name": "Stalgamin 44/97"
+            },
+            {
+                "name": "H\u00e9l\u00e9delle 45/97"
+            },
+            {
+                "name": "Vibraninf 46/97"
+            },
+            {
+                "name": "Vibraninf 47/97"
+            },
+            {
+                "name": "Barbicha 48/97"
+            },
+            {
+                "name": "Draby 49/97"
+            },
+            {
+                "name": "Draby 50/97"
+            },
+            {
+                "name": "Barloche 51/97"
+            },
+            {
+                "name": "Ecrapince 52/97"
+            },
+            {
+                "name": "Ecrapince 53/97"
+            },
+            {
+                "name": "Ecrapince 54/97"
+            },
+            {
+                "name": "Racaillou 55/97"
+            },
+            {
+                "name": "Racaillou 56/97"
+            },
+            {
+                "name": "Tadmorv 57/97"
+            },
+            {
+                "name": "Hypotrempe 58/97"
+            },
+            {
+                "name": "Malosse 59/97"
+            },
+            {
+                "name": "Magicarpe 60/97"
+            },
+            {
+                "name": "Magneti 61/97"
+            },
+            {
+                "name": "Magneti 62/97"
+            },
+            {
+                "name": "Magneti 63/97"
+            },
+            {
+                "name": "Wattouat 64/97"
+            },
+            {
+                "name": "Gobou 65/97"
+            },
+            {
+                "name": "Ningale 66/97"
+            },
+            {
+                "name": "Ningale 67/97"
+            },
+            {
+                "name": "Ningale 68/97"
+            },
+            {
+                "name": "Chamallot 69/97"
+            },
+            {
+                "name": "Chamallot 70/97"
+            },
+            {
+                "name": "Pomdepik 71/97"
+            },
+            {
+                "name": "Limagma 72/97"
+            },
+            {
+                "name": "Spoink 73/97"
+            },
+            {
+                "name": "Spoink 74/97"
+            },
+            {
+                "name": "Tylton 75/97"
+            },
+            {
+                "name": "Nirondelle 76/97"
+            },
+            {
+                "name": "Poussifeu 77/97"
+            },
+            {
+                "name": "Kraknoix 78/97"
+            },
+            {
+                "name": "Kraknoix 79/97"
+            },
+            {
+                "name": "Arcko 80/97"
+            },
+            {
+                "name": "Chenipotte 81/97"
+            },
+            {
+                "name": "Baie Ballon 82/97"
+            },
+            {
+                "name": "Pare-chocs 83/97"
+            },
+            {
+                "name": "Recyclage d'\u00e9nergie 84/97"
+            },
+            {
+                "name": "Syst\u00e8me \u00e0 Haute Pression 85/97"
+            },
+            {
+                "name": "Syst\u00e8me \u00e0 Basse Pression 86/97"
+            },
+            {
+                "name": "La Compassion de M.Briney 87/97"
+            },
+            {
+                "name": "Journaliste t\u00e9l\u00e9 88/97"
+            },
+            {
+                "name": "Pharamp ex 89/97"
+            },
+            {
+                "name": "Dracolosse ex 90/97"
+            },
+            {
+                "name": "Grolem ex 91/97"
+            },
+            {
+                "name": "Hyporoi ex 92/97"
+            },
+            {
+                "name": "Latias ex 93/97"
+            },
+            {
+                "name": "Latios ex 94/97"
+            },
+            {
+                "name": "Volcaropod ex 95/97"
+            },
+            {
+                "name": "Grotadmorv ex 96/97"
+            },
+            {
+                "name": "Rayquaza ex 97/97"
+            },
+            {
+                "name": "Salam\u00e8che 98/97"
+            },
+            {
+                "name": "Reptincel 99/97"
+            },
+            {
+                "name": "Dracaufeu 100/97"
+            }
+        ]
+    },
+    {
+        "serie": "EX : L\u00e9gendes Oubli\u00e9es",
+        "cartes": [
+            {
+                "name": "Branette 1/101"
+            },
+            {
+                "name": "Kaorine 2/101"
+            },
+            {
+                "name": "Nostenfer 3/101"
+            },
+            {
+                "name": "Celebi Obscur 4/101"
+            },
+            {
+                "name": "\u00c9lectrode 5/101"
+            },
+            {
+                "name": "Brouhabam 6/101"
+            },
+            {
+                "name": "Scarhino 7/101"
+            },
+            {
+                "name": "Jirachi 8/101"
+            },
+            {
+                "name": "Mackogneur 9/101"
+            },
+            {
+                "name": "Charmina 10/101"
+            },
+            {
+                "name": "Metalosse 11/101"
+            },
+            {
+                "name": "Milobellus 12/101"
+            },
+            {
+                "name": "Scarabrute 13/101"
+            },
+            {
+                "name": "Tengalice 14/101"
+            },
+            {
+                "name": "Kaimorse 15/101"
+            },
+            {
+                "name": "Joliflor 16/101"
+            },
+            {
+                "name": "Eoko 17/101"
+            },
+            {
+                "name": "Rosabyss 18/101"
+            },
+            {
+                "name": "Serpang 19/101"
+            },
+            {
+                "name": "Maskadra 20/101"
+            },
+            {
+                "name": "Metang 21/101"
+            },
+            {
+                "name": "Feunard 22/101"
+            },
+            {
+                "name": "Morpheo Pluie 23/101"
+            },
+            {
+                "name": "Relicanth 24/101"
+            },
+            {
+                "name": "Morpheo Neige 25/101"
+            },
+            {
+                "name": "Morpheo Soleil 26/101"
+            },
+            {
+                "name": "Tropius 27/101"
+            },
+            {
+                "name": "Terhal 28/101"
+            },
+            {
+                "name": "Terhal 29/101"
+            },
+            {
+                "name": "Morpheo 30/101"
+            },
+            {
+                "name": "Kaorine 31/101"
+            },
+            {
+                "name": "Corayon 32/101"
+            },
+            {
+                "name": "Dodrio 33/101"
+            },
+            {
+                "name": "Oniglali 34/101"
+            },
+            {
+                "name": "Ortide 35/101"
+            },
+            {
+                "name": "Nosf\u00e9ralto 36/101"
+            },
+            {
+                "name": "Toudoudou 37/101"
+            },
+            {
+                "name": "Lanturn 38/101"
+            },
+            {
+                "name": "Ramboum 39/101"
+            },
+            {
+                "name": "Lovdisc 40/101"
+            },
+            {
+                "name": "Machopeur 41/101"
+            },
+            {
+                "name": "Charmina 42/101"
+            },
+            {
+                "name": "Metang 43/101"
+            },
+            {
+                "name": "Metang 44/101"
+            },
+            {
+                "name": "Pifeuil 45/101"
+            },
+            {
+                "name": "Rhinof\u00e9ros 46/101"
+            },
+            {
+                "name": "Phogleur 47/101"
+            },
+            {
+                "name": "Spinda 48/101"
+            },
+            {
+                "name": "Staross 49/101"
+            },
+            {
+                "name": "Avaltout 50/101"
+            },
+            {
+                "name": "Tentacruel 51/101"
+            },
+            {
+                "name": "Balbuto 52/101"
+            },
+            {
+                "name": "Balbuto 53/101"
+            },
+            {
+                "name": "Terhal 54/101"
+            },
+            {
+                "name": "Germignon 55/101"
+            },
+            {
+                "name": "Loupio 56/101"
+            },
+            {
+                "name": "Loupio 57/101"
+            },
+            {
+                "name": "Coquiperl 58/101"
+            },
+            {
+                "name": "H\u00e9ricendre 59/101"
+            },
+            {
+                "name": "Doduo 60/101"
+            },
+            {
+                "name": "Barpau 61/101"
+            },
+            {
+                "name": "Gloupti 62/101"
+            },
+            {
+                "name": "Rondoudou 63/101"
+            },
+            {
+                "name": "Machoc 64/101"
+            },
+            {
+                "name": "Meditikka 65/101"
+            },
+            {
+                "name": "Meditikka 66/101"
+            },
+            {
+                "name": "Negapi 67/101"
+            },
+            {
+                "name": "Mystherbe 68/101"
+            },
+            {
+                "name": "Posipi 69/101"
+            },
+            {
+                "name": "Rhinocorne 70/101"
+            },
+            {
+                "name": "Grainipiot 71/101"
+            },
+            {
+                "name": "Polichombr 72/101"
+            },
+            {
+                "name": "Stalgamin 73/101"
+            },
+            {
+                "name": "Obalie 74/101"
+            },
+            {
+                "name": "Stari 75/101"
+            },
+            {
+                "name": "Arakdo 76/101"
+            },
+            {
+                "name": "Tentacool 77/101"
+            },
+            {
+                "name": "Togepi 78/101"
+            },
+            {
+                "name": "Kaiminus 79/101"
+            },
+            {
+                "name": "Voltorbe 80/101"
+            },
+            {
+                "name": "Goupix 81/101"
+            },
+            {
+                "name": "Chuchmur 82/101"
+            },
+            {
+                "name": "Nosf\u00e9rapti 83/101"
+            },
+            {
+                "name": "Machine Technique Ancienne [Glace] 84/101"
+            },
+            {
+                "name": "Machine Technique Ancienne [Pierre] 85/101"
+            },
+            {
+                "name": "Machine Technique Ancienne [Acier] 86/101"
+            },
+            {
+                "name": "Tombeau antique 87/101"
+            },
+            {
+                "name": "Ruines d\u00e9sert 88/101"
+            },
+            {
+                "name": "Grotte island 89/101"
+            },
+            {
+                "name": "Herbe sauveuse 90/101"
+            },
+            {
+                "name": "Temp\u00eate magn\u00e9tique 91/101"
+            },
+            {
+                "name": "Les conseils de Pierre 92/101"
+            },
+            {
+                "name": "Groudon ex 93/101"
+            },
+            {
+                "name": "Kyogre ex 94/101"
+            },
+            {
+                "name": "Metalosse ex 95/101"
+            },
+            {
+                "name": "Feunard ex 96/101"
+            },
+            {
+                "name": "Regice ex 97/101"
+            },
+            {
+                "name": "Regirock ex 98/101"
+            },
+            {
+                "name": "Registeel ex 99/101"
+            },
+            {
+                "name": "Rafflesia ex 100/101"
+            },
+            {
+                "name": "Grodoudou ex 101/101"
+            },
+            {
+                "name": "Groudon 102/101"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Rouge Feu & Vert Feuille",
+        "cartes": [
+            {
+                "name": "Dardargnan 1/112"
+            },
+            {
+                "name": "Papilusion 2/112"
+            },
+            {
+                "name": "Lamantine 3/112"
+            },
+            {
+                "name": "M\u00e9tamorph 4/112"
+            },
+            {
+                "name": "Noadkoko 5/112"
+            },
+            {
+                "name": "Kangourex 6/112"
+            },
+            {
+                "name": "Ossatueur 7/112"
+            },
+            {
+                "name": "Nidoking 8/112"
+            },
+            {
+                "name": "Nidoqueen 9/112"
+            },
+            {
+                "name": "Roucarnage 10/112"
+            },
+            {
+                "name": "Tartard 11/112"
+            },
+            {
+                "name": "Raichu 12/112"
+            },
+            {
+                "name": "Galopa 13/112"
+            },
+            {
+                "name": "Flagadoss 14/112"
+            },
+            {
+                "name": "Ronflex 15/112"
+            },
+            {
+                "name": "Tauros 16/112"
+            },
+            {
+                "name": "Empiflor 17/112"
+            },
+            {
+                "name": "Arcanin 18/112"
+            },
+            {
+                "name": "Leveinard 19/112"
+            },
+            {
+                "name": "Crustabri 20/112"
+            },
+            {
+                "name": "Dodrio 21/112"
+            },
+            {
+                "name": "Triopikeur 22/112"
+            },
+            {
+                "name": "Canarticho 23/112"
+            },
+            {
+                "name": "Rapasdepic 24/112"
+            },
+            {
+                "name": "Hypnomade 25/112"
+            },
+            {
+                "name": "Krabboss 26/112"
+            },
+            {
+                "name": "Magneton 27/112"
+            },
+            {
+                "name": "Colossinge 28/112"
+            },
+            {
+                "name": "Ins\u00e9cateur 29/112"
+            },
+            {
+                "name": "Saquedeneu 30/112"
+            },
+            {
+                "name": "Reptincel 31/112"
+            },
+            {
+                "name": "Soporifik 32/112"
+            },
+            {
+                "name": "Noeunoeuf (Noeufnoeuf) 33/112"
+            },
+            {
+                "name": "Spectrum 34/112"
+            },
+            {
+                "name": "Herbizarre 35/112"
+            },
+            {
+                "name": "Coconfort 36/112"
+            },
+            {
+                "name": "Excelangue 37/112"
+            },
+            {
+                "name": "F\u00e9rosinge 38/112"
+            },
+            {
+                "name": "Chrysacier 39/112"
+            },
+            {
+                "name": "Nidorina 40/112"
+            },
+            {
+                "name": "Nidorino 41/112"
+            },
+            {
+                "name": "Onix 42/112"
+            },
+            {
+                "name": "Parasect 43/112"
+            },
+            {
+                "name": "Persian 44/112"
+            },
+            {
+                "name": "Roucoups 45/112"
+            },
+            {
+                "name": "T\u00eatarte 46/112"
+            },
+            {
+                "name": "Porygon 47/112"
+            },
+            {
+                "name": "Rattatac 48/112"
+            },
+            {
+                "name": "A\u00e9romite 49/112"
+            },
+            {
+                "name": "Carabaffe 50/112"
+            },
+            {
+                "name": "Boustiflor 51/112"
+            },
+            {
+                "name": "Grodoudou 52/112"
+            },
+            {
+                "name": "Ch\u00e9tiflor 53/112"
+            },
+            {
+                "name": "Bulbizarre 54/112"
+            },
+            {
+                "name": "Bulbizarre 55/112"
+            },
+            {
+                "name": "Chenipan 56/112"
+            },
+            {
+                "name": "Salam\u00e8che 57/112"
+            },
+            {
+                "name": "Salam\u00e8che 58/112"
+            },
+            {
+                "name": "M\u00e9lof\u00e9e 59/112"
+            },
+            {
+                "name": "Osselait 60/112"
+            },
+            {
+                "name": "Taupiqueur 61/112"
+            },
+            {
+                "name": "Doduo 62/112"
+            },
+            {
+                "name": "Fantominus 63/112"
+            },
+            {
+                "name": "Caninos 64/112"
+            },
+            {
+                "name": "Rondoudou 65/112"
+            },
+            {
+                "name": "Krabby 66/112"
+            },
+            {
+                "name": "Magicarpe 67/112"
+            },
+            {
+                "name": "Magneti 68/112"
+            },
+            {
+                "name": "Miaouss 69/112"
+            },
+            {
+                "name": "Nidoran F 70/112"
+            },
+            {
+                "name": "Nidoran M 71/112"
+            },
+            {
+                "name": "Paras 72/112"
+            },
+            {
+                "name": "Roucool 73/112"
+            },
+            {
+                "name": "Pikachu 74/112"
+            },
+            {
+                "name": "Ptitard 75/112"
+            },
+            {
+                "name": "Ponyta 76/112"
+            },
+            {
+                "name": "Rattata 77/112"
+            },
+            {
+                "name": "Otaria 78/112"
+            },
+            {
+                "name": "Kokiyas 79/112"
+            },
+            {
+                "name": "Ramoloss 80/112"
+            },
+            {
+                "name": "Piafabec 81/112"
+            },
+            {
+                "name": "Carapuce 82/112"
+            },
+            {
+                "name": "Carapuce 83/112"
+            },
+            {
+                "name": "Mimitoss 84/112"
+            },
+            {
+                "name": "Voltorbe 85/112"
+            },
+            {
+                "name": "Aspicot 86/112"
+            },
+            {
+                "name": "Entretien de L\u00e9o 87/112"
+            },
+            {
+                "name": "Le R\u00e9seau de Cileo 88/112"
+            },
+            {
+                "name": "Suppression d'\u00c9nergie 2 89/112"
+            },
+            {
+                "name": "\u00c9change d'\u00e9nergie 90/112"
+            },
+            {
+                "name": "Multi exp\u00e9ditions 91/112"
+            },
+            {
+                "name": "Super Ball 92/112"
+            },
+            {
+                "name": "Herbe sauveuse 93/112"
+            },
+            {
+                "name": "Mont Selenite 94/112"
+            },
+            {
+                "name": "Pok\u00e9 Ball 95/112"
+            },
+            {
+                "name": "Pok\u00e9dex 96/112"
+            },
+            {
+                "name": "Inversion de Pok\u00e9mon 97/112"
+            },
+            {
+                "name": "La recherche du Prof. Chen 98/112"
+            },
+            {
+                "name": "Super Rappel 99/112"
+            },
+            {
+                "name": "Cherche VS 100/112"
+            },
+            {
+                "name": "Potion 101/112"
+            },
+            {
+                "name": "Echange 102/112"
+            },
+            {
+                "name": "\u00c9nergies multiples 103/112"
+            },
+            {
+                "name": "Tortank ex 104/112"
+            },
+            {
+                "name": "Dracaufeu ex 105/112"
+            },
+            {
+                "name": "M\u00e9lodelfe ex 106/112"
+            },
+            {
+                "name": "\u00c9lectrode ex 107/112"
+            },
+            {
+                "name": "Ectoplasma ex 108/112"
+            },
+            {
+                "name": "L\u00e9viator ex 109/112"
+            },
+            {
+                "name": "M. Mime ex 110/112"
+            },
+            {
+                "name": "M. Mime ex 111/112"
+            },
+            {
+                "name": "Florizarre ex 112/112"
+            },
+            {
+                "name": "Salam\u00e8che 113/112"
+            },
+            {
+                "name": "Artikodin ex 114/112"
+            },
+            {
+                "name": "Sulfura ex 115/112"
+            },
+            {
+                "name": "Electhor ex 116/112"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Team Rocket Returns",
+        "cartes": [
+            {
+                "name": "Azumarill 1/109"
+            },
+            {
+                "name": "Pharamp Obscur 2/109"
+            },
+            {
+                "name": "Nostenfer Obscur 3/109"
+            },
+            {
+                "name": "\u00c9lectrode Obscur 4/109"
+            },
+            {
+                "name": "Demolosse Obscur 5/109"
+            },
+            {
+                "name": "Hypnomade Obscur 6/109"
+            },
+            {
+                "name": "Ossatueur Obscur 7/109"
+            },
+            {
+                "name": "Octillery Obscur 8/109"
+            },
+            {
+                "name": "Roigada Obscur 9/109"
+            },
+            {
+                "name": "Steelix Obscur 10/109"
+            },
+            {
+                "name": "Cotovol 11/109"
+            },
+            {
+                "name": "Hyporoi 12/109"
+            },
+            {
+                "name": "Cochignon 13/109"
+            },
+            {
+                "name": "Togetic 14/109"
+            },
+            {
+                "name": "Dracolosse Obscur 15/109"
+            },
+            {
+                "name": "Grotadmorv Obscur 16/109"
+            },
+            {
+                "name": "Rattatac Obscur 17/109"
+            },
+            {
+                "name": "Sablaireau Obscur 18/109"
+            },
+            {
+                "name": "Tyranocif Obscur 19/109"
+            },
+            {
+                "name": "Tyranocif Obscur 20/109"
+            },
+            {
+                "name": "Cadoizo 21/109"
+            },
+            {
+                "name": "Fouinar 22/109"
+            },
+            {
+                "name": "Coxyclaque 23/109"
+            },
+            {
+                "name": "Magby 24/109"
+            },
+            {
+                "name": "Feuforeve 25/109"
+            },
+            {
+                "name": "Maraiste 26/109"
+            },
+            {
+                "name": "Qwilfish 27/109"
+            },
+            {
+                "name": "Yanma 28/109"
+            },
+            {
+                "name": "Arbok Obscur 29/109"
+            },
+            {
+                "name": "Migalos Obscur 30/109"
+            },
+            {
+                "name": "Draco Obscur 31/109"
+            },
+            {
+                "name": "Draco Obscur 32/109"
+            },
+            {
+                "name": "Lainergie Obscur 33/109"
+            },
+            {
+                "name": "Nosf\u00e9ralto Obscur 34/109"
+            },
+            {
+                "name": "Akwakwak Obscur 35/109"
+            },
+            {
+                "name": "L\u00e9viator Obscur 36/109"
+            },
+            {
+                "name": "Demolosse Obscur 37/109"
+            },
+            {
+                "name": "Volcaropod Obscur 38/109"
+            },
+            {
+                "name": "Magneton Obscur 39/109"
+            },
+            {
+                "name": "Ymphect Obscur 40/109"
+            },
+            {
+                "name": "Ymphect Obscur 41/109"
+            },
+            {
+                "name": "Smogogo Obscur 42/109"
+            },
+            {
+                "name": "Scarhino 43/109"
+            },
+            {
+                "name": "Magmar 44/109"
+            },
+            {
+                "name": "Demanta 45/109"
+            },
+            {
+                "name": "Miaouss de Rocket 46/109"
+            },
+            {
+                "name": "Qulbutok\u00e9 de Rocket 47/109"
+            },
+            {
+                "name": "Hypoc\u00e9an 48/109"
+            },
+            {
+                "name": "Floravol 49/109"
+            },
+            {
+                "name": "Togepi 50/109"
+            },
+            {
+                "name": "Osselait 51/109"
+            },
+            {
+                "name": "Minidraco 52/109"
+            },
+            {
+                "name": "Minidraco 53/109"
+            },
+            {
+                "name": "Soporifik 54/109"
+            },
+            {
+                "name": "Abo 55/109"
+            },
+            {
+                "name": "Tadmorv 56/109"
+            },
+            {
+                "name": "Granivol 57/109"
+            },
+            {
+                "name": "Hypotrempe 58/109"
+            },
+            {
+                "name": "Malosse 59/109"
+            },
+            {
+                "name": "Malosse 60/109"
+            },
+            {
+                "name": "Smogo 61/109"
+            },
+            {
+                "name": "Embrylex 62/109"
+            },
+            {
+                "name": "Embrylex 63/109"
+            },
+            {
+                "name": "Coxy 64/109"
+            },
+            {
+                "name": "Magicarpe 65/109"
+            },
+            {
+                "name": "Magneti 66/109"
+            },
+            {
+                "name": "Wattouat 67/109"
+            },
+            {
+                "name": "Marill 68/109"
+            },
+            {
+                "name": "Onix 69/109"
+            },
+            {
+                "name": "Psykokwak 70/109"
+            },
+            {
+                "name": "Rattata 71/109"
+            },
+            {
+                "name": "Rattata 72/109"
+            },
+            {
+                "name": "Remoraid 73/109"
+            },
+            {
+                "name": "Sabelette 74/109"
+            },
+            {
+                "name": "Fouinette 75/109"
+            },
+            {
+                "name": "Ramoloss 76/109"
+            },
+            {
+                "name": "Limagma 77/109"
+            },
+            {
+                "name": "Mimigal 78/109"
+            },
+            {
+                "name": "Marcacrin 79/109"
+            },
+            {
+                "name": "Voltorbe 80/109"
+            },
+            {
+                "name": "Axoloto 81/109"
+            },
+            {
+                "name": "Nosf\u00e9rapti 82/109"
+            },
+            {
+                "name": "Copieuse 83/109"
+            },
+            {
+                "name": "R\u00e9cup\u00e9rateur de Pok\u00e9mon (Machine secr\u00e8te des Rocke 84/109"
+            },
+            {
+                "name": "Boum! Extension de mains (Machine secr\u00e8te des Rock 85/109"
+            },
+            {
+                "name": "Admin Rocket 86/109"
+            },
+            {
+                "name": "Repaire des Rocket ! 87/109"
+            },
+            {
+                "name": "Mission des Rocket 88/109"
+            },
+            {
+                "name": "Pok\u00e9 Ball des Rocket 89/109"
+            },
+            {
+                "name": "Ar\u00e8ne Pi\u00e9g\u00e9e des Rocket 90/109"
+            },
+            {
+                "name": "Suprise! Machine Temporelle (Machine secr\u00e8te des R 91/109"
+            },
+            {
+                "name": "Pouf! T\u00e9l\u00e9porteur (Machine secr\u00e8te des Rocket) 92/109"
+            },
+            {
+                "name": "Bombe \u00e0 Risques (Machine secr\u00e8te des Rocket) 93/109"
+            },
+            {
+                "name": "\u00c9nergie M\u00e9tal Obscur 94/109"
+            },
+            {
+                "name": "\u00c9nergie R 95/109"
+            },
+            {
+                "name": "Artikodin ex de Rocket 96/109"
+            },
+            {
+                "name": "Entei ex de Rocket 97/109"
+            },
+            {
+                "name": "Tygnon ex de Rocket 98/109"
+            },
+            {
+                "name": "Mewtwo ex de Rocket 99/109"
+            },
+            {
+                "name": "Sulfura ex de Rocket 100/109"
+            },
+            {
+                "name": "Cizayox ex de Rocket 101/109"
+            },
+            {
+                "name": "Ins\u00e9cateur ex de Rocket 102/109"
+            },
+            {
+                "name": "Farfuret ex de Rocket 103/109"
+            },
+            {
+                "name": "Ronflex ex de Rocket 104/109"
+            },
+            {
+                "name": "Suicune ex de Rocket 105/109"
+            },
+            {
+                "name": "Electhor ex de Rocket 106/109"
+            },
+            {
+                "name": "Gobou Star 107/109"
+            },
+            {
+                "name": "Poussifeu Star 108/109"
+            },
+            {
+                "name": "Arcko Star 109/109"
+            },
+            {
+                "name": "Reptincel 110/109"
+            },
+            {
+                "name": "Et voila les Team Rocket ! 111/109"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Deoxys",
+        "cartes": [
+            {
+                "name": "Altaria 1/107"
+            },
+            {
+                "name": "Charmillon 2/107"
+            },
+            {
+                "name": "Chapignon 3/107"
+            },
+            {
+                "name": "Camerupt 4/107"
+            },
+            {
+                "name": "Kaorine 5/107"
+            },
+            {
+                "name": "Colhomard 6/107"
+            },
+            {
+                "name": "Teraclope 7/107"
+            },
+            {
+                "name": "L\u00e9viator 8/107"
+            },
+            {
+                "name": "Jirachi 9/107"
+            },
+            {
+                "name": "Ludicolo 10/107"
+            },
+            {
+                "name": "Metalosse 11/107"
+            },
+            {
+                "name": "Grahyena 12/107"
+            },
+            {
+                "name": "Ninjask 13/107"
+            },
+            {
+                "name": "Munja 14/107"
+            },
+            {
+                "name": "Monaflemit 15/107"
+            },
+            {
+                "name": "Deoxys 16/107"
+            },
+            {
+                "name": "Deoxys 17/107"
+            },
+            {
+                "name": "Deoxys 18/107"
+            },
+            {
+                "name": "Ludicolo 19/107"
+            },
+            {
+                "name": "Volcaropod 20/107"
+            },
+            {
+                "name": "Bekipan 21/107"
+            },
+            {
+                "name": "Rayquaza 22/107"
+            },
+            {
+                "name": "T\u00e9n\u00e9fix 23/107"
+            },
+            {
+                "name": "Poissoroy 24/107"
+            },
+            {
+                "name": "Tengalice 25/107"
+            },
+            {
+                "name": "Airmure 26/107"
+            },
+            {
+                "name": "Tropius 27/107"
+            },
+            {
+                "name": "Barbicha 28/107"
+            },
+            {
+                "name": "Xatu 29/107"
+            },
+            {
+                "name": "Donphan 30/107"
+            },
+            {
+                "name": "Nosf\u00e9ralto 31/107"
+            },
+            {
+                "name": "Groret 32/107"
+            },
+            {
+                "name": "Lombre 33/107"
+            },
+            {
+                "name": "Lombre 34/107"
+            },
+            {
+                "name": "Nenupiot 35/107"
+            },
+            {
+                "name": "S\u00e9l\u00e9roc 36/107"
+            },
+            {
+                "name": "Volcaropod 37/107"
+            },
+            {
+                "name": "Elecsprint 38/107"
+            },
+            {
+                "name": "Maskadra 39/107"
+            },
+            {
+                "name": "Metang 40/107"
+            },
+            {
+                "name": "Negapi 41/107"
+            },
+            {
+                "name": "Tarinor 42/107"
+            },
+            {
+                "name": "Pifeuil 43/107"
+            },
+            {
+                "name": "Posipi 44/107"
+            },
+            {
+                "name": "Drackhaus 45/107"
+            },
+            {
+                "name": "Armulys 46/107"
+            },
+            {
+                "name": "Solaroc 47/107"
+            },
+            {
+                "name": "Staross 48/107"
+            },
+            {
+                "name": "H\u00e9l\u00e9delle 49/107"
+            },
+            {
+                "name": "Vigoroth 50/107"
+            },
+            {
+                "name": "Smogogo 51/107"
+            },
+            {
+                "name": "Draby 52/107"
+            },
+            {
+                "name": "Balbuto 53/107"
+            },
+            {
+                "name": "Barloche 54/107"
+            },
+            {
+                "name": "Terhal 55/107"
+            },
+            {
+                "name": "Carvanha 56/107"
+            },
+            {
+                "name": "Ecrapince 57/107"
+            },
+            {
+                "name": "Skelenox 58/107"
+            },
+            {
+                "name": "Dynavolt 59/107"
+            },
+            {
+                "name": "Dynavolt 60/107"
+            },
+            {
+                "name": "Poissir\u00e8ne 61/107"
+            },
+            {
+                "name": "Smogo 62/107"
+            },
+            {
+                "name": "Nenupiot 63/107"
+            },
+            {
+                "name": "Magicarpe 64/107"
+            },
+            {
+                "name": "Makuhita 65/107"
+            },
+            {
+                "name": "Natu 66/107"
+            },
+            {
+                "name": "Ningale 67/107"
+            },
+            {
+                "name": "Chamallot 68/107"
+            },
+            {
+                "name": "Phanpy 69/107"
+            },
+            {
+                "name": "Medhyena 70/107"
+            },
+            {
+                "name": "Grainipiot 71/107"
+            },
+            {
+                "name": "Balignon 72/107"
+            },
+            {
+                "name": "Parecool 73/107"
+            },
+            {
+                "name": "Limagma 74/107"
+            },
+            {
+                "name": "Limagma 75/107"
+            },
+            {
+                "name": "Spoink 76/107"
+            },
+            {
+                "name": "Stari 77/107"
+            },
+            {
+                "name": "Arakdo 78/107"
+            },
+            {
+                "name": "Tylton 79/107"
+            },
+            {
+                "name": "Nirondelle 80/107"
+            },
+            {
+                "name": "Goelise 81/107"
+            },
+            {
+                "name": "Chenipotte 82/107"
+            },
+            {
+                "name": "Nosf\u00e9rapti 83/107"
+            },
+            {
+                "name": "Baie Ballon 84/107"
+            },
+            {
+                "name": " \u00c9charde de cristal 85/107"
+            },
+            {
+                "name": "Recharge de puissance 86/107"
+            },
+            {
+                "name": "Mademoiselle Sortie 87/107"
+            },
+            {
+                "name": "Master Ball 88/107"
+            },
+            {
+                "name": "Site m\u00e9t\u00e9ore 89/107"
+            },
+            {
+                "name": "La d\u00e9couverte du Professeur Kosmo 90/107"
+            },
+            {
+                "name": "Centre spatial 91/107"
+            },
+            {
+                "name": "F\u00e9tiche de force 92/107"
+            },
+            {
+                "name": "\u00c9nergie Super 93/107"
+            },
+            {
+                "name": "\u00c9nergie gu\u00e9risseuse 94/107"
+            },
+            {
+                "name": "\u00c9nergie cod\u00e9e 95/107"
+            },
+            {
+                "name": "Nostenfer ex 96/107"
+            },
+            {
+                "name": "Deoxys ex 97/107"
+            },
+            {
+                "name": "Deoxys ex 98/107"
+            },
+            {
+                "name": "Deoxys ex 99/107"
+            },
+            {
+                "name": "Hariyama ex 100/107"
+            },
+            {
+                "name": "Elecsprint ex 101/107"
+            },
+            {
+                "name": "Rayquaza ex 102/107"
+            },
+            {
+                "name": "Drattak ex 103/107"
+            },
+            {
+                "name": "Sharpedo ex 104/107"
+            },
+            {
+                "name": "Latias (Star) 105/107"
+            },
+            {
+                "name": "Latios (Star) 106/107"
+            },
+            {
+                "name": "Rayquaza Star 107/107"
+            },
+            {
+                "name": "Raikou ex de Rocket 108/107"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Team Magma VS Team Aqua",
+        "cartes": [
+            {
+                "name": "Cacturne de Team Aqua 1/95"
+            },
+            {
+                "name": "Colhomard de Team Aqua 2/95"
+            },
+            {
+                "name": "Kyogre de Team Aqua 3/95"
+            },
+            {
+                "name": "Elecsprint de Team Aqua 4/95"
+            },
+            {
+                "name": "Sharpedo de Team Aqua 5/95"
+            },
+            {
+                "name": "Kaimorse de Team Aqua 6/95"
+            },
+            {
+                "name": "Galeking de Team Magma 7/95"
+            },
+            {
+                "name": "Kaorine de Team Magma 8/95"
+            },
+            {
+                "name": "Groudon de Team Magma 9/95"
+            },
+            {
+                "name": "D\u00e9molosse de Team Magma 10/95"
+            },
+            {
+                "name": "Rhinof\u00e9ros de Team Magma 11/95"
+            },
+            {
+                "name": "Chartor de Team Magma 12/95"
+            },
+            {
+                "name": "Raichu 13/95"
+            },
+            {
+                "name": "Colhomard de Team Aqua 14/95"
+            },
+            {
+                "name": "Grahyena de Team Aqua 15/95"
+            },
+            {
+                "name": "Phogleur de Team Aqua 16/95"
+            },
+            {
+                "name": "Seviper de Team Aqua 17/95"
+            },
+            {
+                "name": "Sharpedo de Team Aqua 18/95"
+            },
+            {
+                "name": "Camerupt de Team Magma 19/95"
+            },
+            {
+                "name": "Galegon de Team Magma 20/95"
+            },
+            {
+                "name": "Grahyena de Team Magma 21/95"
+            },
+            {
+                "name": "Rhinof\u00e9ros de Team Magma 22/95"
+            },
+            {
+                "name": "Mangriff de Team Magma 23/95"
+            },
+            {
+                "name": "Cacnea de Team Aqua 24/95"
+            },
+            {
+                "name": "Carvanha de Team Aqua 25/95"
+            },
+            {
+                "name": "Ecrapince de Team Aqua 26/95"
+            },
+            {
+                "name": "Dynavolt de Team Aqua 27/95"
+            },
+            {
+                "name": "Lanturn de Team Aqua 28/95"
+            },
+            {
+                "name": "Elecsprint de Team Aqua 29/95"
+            },
+            {
+                "name": "Grahyena de Team Aqua 30/95"
+            },
+            {
+                "name": "Phogleur de Team Aqua 31/95"
+            },
+            {
+                "name": "Balbuto de Team Magma 32/95"
+            },
+            {
+                "name": "Kaorine de Team Magma 33/95"
+            },
+            {
+                "name": "D\u00e9molosse de Team Magma 34/95"
+            },
+            {
+                "name": "Malosse de Team Magma 35/95"
+            },
+            {
+                "name": "Galegon de Team Magma 36/95"
+            },
+            {
+                "name": "Grahyena de Team Magma 37/95"
+            },
+            {
+                "name": "Rhinocorne de Team Magma 38/95"
+            },
+            {
+                "name": "Bulbizarre 39/95"
+            },
+            {
+                "name": "Osselait 40/95"
+            },
+            {
+                "name": "Rondoudou 41/95"
+            },
+            {
+                "name": "Miaouss 42/95"
+            },
+            {
+                "name": "Pikachu 43/95"
+            },
+            {
+                "name": "Psykokwak 44/95"
+            },
+            {
+                "name": "Ramoloss 45/95"
+            },
+            {
+                "name": "Carapuce 46/95"
+            },
+            {
+                "name": "Carvanha de Team Aqua 47/95"
+            },
+            {
+                "name": "Carvanha de Team Aqua 48/95"
+            },
+            {
+                "name": "Loupio de Team Aqua 49/95"
+            },
+            {
+                "name": "Ecrapince de Team Aqua 50/95"
+            },
+            {
+                "name": "Ecrapince de Team Aqua 51/95"
+            },
+            {
+                "name": "Dynavolt de Team Aqua 52/95"
+            },
+            {
+                "name": "Dynavolt de Team Aqua 53/95"
+            },
+            {
+                "name": "Medhyena de Team Aqua 54/95"
+            },
+            {
+                "name": "Medhyena de Team Aqua 55/95"
+            },
+            {
+                "name": "Obalie de Team Aqua 56/95"
+            },
+            {
+                "name": "Obalie de Team Aqua 57/95"
+            },
+            {
+                "name": "Galekid de Team Magma 58/95"
+            },
+            {
+                "name": "Galekid de Team Magma 59/95"
+            },
+            {
+                "name": "Balbuto de Team Magma 60/95"
+            },
+            {
+                "name": "Balbuto de Team Magma 61/95"
+            },
+            {
+                "name": "Malosse de Team Magma 62/95"
+            },
+            {
+                "name": "Malosse de Team Magma 63/95"
+            },
+            {
+                "name": "Chamallot de Team Magma 64/95"
+            },
+            {
+                "name": "Medhyena de Team Magma 65/95"
+            },
+            {
+                "name": "Medhyena de Team Magma 66/95"
+            },
+            {
+                "name": "Rhinocorne de Team Magma 67/95"
+            },
+            {
+                "name": "Rhinocorne de Team Magma 68/95"
+            },
+            {
+                "name": "Manipulateur de Team Aqua 69/95"
+            },
+            {
+                "name": "Manipulateur de Team Magma 70/95"
+            },
+            {
+                "name": "Arthur 71/95"
+            },
+            {
+                "name": "Double Boule 72/95"
+            },
+            {
+                "name": "Max 73/95"
+            },
+            {
+                "name": "Sort de force 74/95"
+            },
+            {
+                "name": "Boule de Team Aqua 75/95"
+            },
+            {
+                "name": "Racl\u00e9e de Team Aqua 76/95"
+            },
+            {
+                "name": "Conspirateur de Team Aqua 77/95"
+            },
+            {
+                "name": "Cachette de Team Aqua 78/95"
+            },
+            {
+                "name": "Machine Technique 01 de Team Aqua 79/95"
+            },
+            {
+                "name": "Boule de Team Magma 80/95"
+            },
+            {
+                "name": "Racl\u00e9e de Team Magma 81/95"
+            },
+            {
+                "name": "Conspirateur de Team Magma 82/95"
+            },
+            {
+                "name": "Cachette de Team Magma 83/95"
+            },
+            {
+                "name": "Machine Technique 01 de Team Magma 84/95"
+            },
+            {
+                "name": "Point d'\u00e9change 85/95"
+            },
+            {
+                "name": "\u00c9nergie Aqua 86/95"
+            },
+            {
+                "name": "\u00c9nergie Magma 87/95"
+            },
+            {
+                "name": "Double \u00c9nergie Multicolore 88/95"
+            },
+            {
+                "name": "Brasegali ex 89/95"
+            },
+            {
+                "name": "Vacilys ex 90/95"
+            },
+            {
+                "name": "Entei ex 91/95"
+            },
+            {
+                "name": "Raikou ex 92/95"
+            },
+            {
+                "name": "Jungko ex 93/95"
+            },
+            {
+                "name": "Suicune ex 94/95"
+            },
+            {
+                "name": "Laggron ex 95/95"
+            },
+            {
+                "name": "Absol 96/95"
+            },
+            {
+                "name": "Jirachi 97/95"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Emeraude",
+        "cartes": [
+            {
+                "name": "Brasegali 1/106"
+            },
+            {
+                "name": "Deoxys 2/106"
+            },
+            {
+                "name": "Brouhabam 3/106"
+            },
+            {
+                "name": "Gardevoir 4/106"
+            },
+            {
+                "name": "Groudon 5/106"
+            },
+            {
+                "name": "Kyogre 6/106"
+            },
+            {
+                "name": "Elecsprint 7/106"
+            },
+            {
+                "name": "Milobellus 8/106"
+            },
+            {
+                "name": "Rayquaza 9/106"
+            },
+            {
+                "name": "Jungko 10/106"
+            },
+            {
+                "name": "Laggron 11/106"
+            },
+            {
+                "name": "Eoko 12/106"
+            },
+            {
+                "name": "Oniglali 13/106"
+            },
+            {
+                "name": "Groudon 14/106"
+            },
+            {
+                "name": "Kyogre 15/106"
+            },
+            {
+                "name": "Elecsprint 16/106"
+            },
+            {
+                "name": "Tarinor 17/106"
+            },
+            {
+                "name": "Relicanth 18/106"
+            },
+            {
+                "name": "Rhinof\u00e9ros 19/106"
+            },
+            {
+                "name": "Seviper 20/106"
+            },
+            {
+                "name": "Mangriff 21/106"
+            },
+            {
+                "name": "Chapignon 22/106"
+            },
+            {
+                "name": "Camerupt 23/106"
+            },
+            {
+                "name": "Kaorine 24/106"
+            },
+            {
+                "name": "Galifeu 25/106"
+            },
+            {
+                "name": "Dodrio 26/106"
+            },
+            {
+                "name": "\u00c9lectrode 27/106"
+            },
+            {
+                "name": "Massko 28/106"
+            },
+            {
+                "name": "Groret 29/106"
+            },
+            {
+                "name": "Groret 30/106"
+            },
+            {
+                "name": "Hariyama 31/106"
+            },
+            {
+                "name": "Lumivole 32/106"
+            },
+            {
+                "name": "Kirlia 33/106"
+            },
+            {
+                "name": "Lineon 34/106"
+            },
+            {
+                "name": "Ramboum 35/106"
+            },
+            {
+                "name": "Flobio 36/106"
+            },
+            {
+                "name": "Negapi 37/106"
+            },
+            {
+                "name": "Feunard 38/106"
+            },
+            {
+                "name": "Posipi 39/106"
+            },
+            {
+                "name": "Avaltout 40/106"
+            },
+            {
+                "name": "H\u00e9l\u00e9delle 41/106"
+            },
+            {
+                "name": "Muciole 42/106"
+            },
+            {
+                "name": "Balbuto 43/106"
+            },
+            {
+                "name": "Cacn\u00e9a 44/106"
+            },
+            {
+                "name": "Doduo 45/106"
+            },
+            {
+                "name": "Skelenox 46/106"
+            },
+            {
+                "name": "Dynavolt 47/106"
+            },
+            {
+                "name": "Dynavolt 48/106"
+            },
+            {
+                "name": "Barpau 49/106"
+            },
+            {
+                "name": "Barpau 50/106"
+            },
+            {
+                "name": "Gloupti 51/106"
+            },
+            {
+                "name": "Embrylex 52/106"
+            },
+            {
+                "name": "Lovdisc 53/106"
+            },
+            {
+                "name": "Makuhita 54/106"
+            },
+            {
+                "name": "Meditikka 55/106"
+            },
+            {
+                "name": "Gobou 56/106"
+            },
+            {
+                "name": "Chamallot 57/106"
+            },
+            {
+                "name": "Chamallot 58/106"
+            },
+            {
+                "name": "Pichu 59/106"
+            },
+            {
+                "name": "Pikachu 60/106"
+            },
+            {
+                "name": "Tarsal 61/106"
+            },
+            {
+                "name": "Rhinocorne 62/106"
+            },
+            {
+                "name": "Balignon 63/106"
+            },
+            {
+                "name": "Stalgamin 64/106"
+            },
+            {
+                "name": "Spoink 65/106"
+            },
+            {
+                "name": "Spoink 66/106"
+            },
+            {
+                "name": "Tylton 67/106"
+            },
+            {
+                "name": "Nirondelle 68/106"
+            },
+            {
+                "name": "Poussifeu 69/106"
+            },
+            {
+                "name": "Arcko 70/106"
+            },
+            {
+                "name": "Voltorbe 71/106"
+            },
+            {
+                "name": "Goupix 72/106"
+            },
+            {
+                "name": "Chuchmur 73/106"
+            },
+            {
+                "name": "Zigzaton 74/106"
+            },
+            {
+                "name": "Zone de combat 75/106"
+            },
+            {
+                "name": "Double gu\u00e9rison totale 76/106"
+            },
+            {
+                "name": "Annette surfe sur le net 77/106"
+            },
+            {
+                "name": "Baie Prine 78/106"
+            },
+            {
+                "name": "Le Projet de M. Rochard 79/106"
+            },
+            {
+                "name": "Baie Oran 80/106"
+            },
+            {
+                "name": "Pok\u00e9Nav 81/106"
+            },
+            {
+                "name": "Prof. Seko 82/106"
+            },
+            {
+                "name": "Super bonbon 83/106"
+            },
+            {
+                "name": "Scott 84/106"
+            },
+            {
+                "name": "Timmy au dressage 85/106"
+            },
+            {
+                "name": "\u00c9nergie Obscurit\u00e9 86/106"
+            },
+            {
+                "name": "Double \u00c9nergie Multicolore 87/106"
+            },
+            {
+                "name": "\u00c9nergie M\u00e9tal 88/106"
+            },
+            {
+                "name": "\u00c9nergies multiples 89/106"
+            },
+            {
+                "name": "Altaria ex 90/106"
+            },
+            {
+                "name": "Cacturne ex 91/106"
+            },
+            {
+                "name": "Camerupt ex 92/106"
+            },
+            {
+                "name": "Deoxys ex 93/106"
+            },
+            {
+                "name": "Teraclope ex 94/106"
+            },
+            {
+                "name": "Charmina ex 95/106"
+            },
+            {
+                "name": "Milobellus ex 96/106"
+            },
+            {
+                "name": "Raichu ex 97/106"
+            },
+            {
+                "name": "Regice ex 98/106"
+            },
+            {
+                "name": "Regirock ex 99/106"
+            },
+            {
+                "name": "Registeel ex 100/106"
+            },
+            {
+                "name": "\u00c9nergie Plante 101/106"
+            },
+            {
+                "name": "\u00c9nergie Feu 102/106"
+            },
+            {
+                "name": "Energie Eau 103/106"
+            },
+            {
+                "name": "\u00c9nergie Electrique 104/106"
+            },
+            {
+                "name": "\u00c9nergie Psy 105/106"
+            },
+            {
+                "name": "\u00c9nergie Combat 106/106"
+            },
+            {
+                "name": "Canarticho 107/106"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Forces Cach\u00e9es",
+        "cartes": [
+            {
+                "name": "Pharamp 1/115"
+            },
+            {
+                "name": "Migalos 2/115"
+            },
+            {
+                "name": "Joliflor 3/115"
+            },
+            {
+                "name": "Aligatueur 4/115"
+            },
+            {
+                "name": "Pyroli 5/115"
+            },
+            {
+                "name": "Foretress 6/115"
+            },
+            {
+                "name": "D\u00e9molosse 7/115"
+            },
+            {
+                "name": "Voltali 8/115"
+            },
+            {
+                "name": "M\u00e9ganium 9/115"
+            },
+            {
+                "name": "Octillery 10/115"
+            },
+            {
+                "name": "Tartard 11/115"
+            },
+            {
+                "name": "Porygon2 12/115"
+            },
+            {
+                "name": "Flagadoss 13/115"
+            },
+            {
+                "name": "Roigada 14/115"
+            },
+            {
+                "name": "Simularbre 15/115"
+            },
+            {
+                "name": "Heliatronc 16/115"
+            },
+            {
+                "name": "Typhlosion 17/115"
+            },
+            {
+                "name": "Ursaring 18/115"
+            },
+            {
+                "name": "Aquali 19/115"
+            },
+            {
+                "name": "Leveinard 20/115"
+            },
+            {
+                "name": "M\u00e9lo 21/115"
+            },
+            {
+                "name": "Elektek 22/115"
+            },
+            {
+                "name": "Elekid 23/115"
+            },
+            {
+                "name": "Tygnon 24/115"
+            },
+            {
+                "name": "Kicklee 25/115"
+            },
+            {
+                "name": "Kapoera 26/115"
+            },
+            {
+                "name": "Ho-Oh 27/115"
+            },
+            {
+                "name": "Lippoutou 28/115"
+            },
+            {
+                "name": "Lugia 29/115"
+            },
+            {
+                "name": "Corn\u00e8bre 30/115"
+            },
+            {
+                "name": "Lippouti 31/115"
+            },
+            {
+                "name": "Cerfrousse 32/115"
+            },
+            {
+                "name": "Debugant 33/115"
+            },
+            {
+                "name": "Capumain 34/115"
+            },
+            {
+                "name": "Macronium 35/115"
+            },
+            {
+                "name": "M\u00e9lodelfe 36/115"
+            },
+            {
+                "name": "Corayon 37/115"
+            },
+            {
+                "name": "Crocrodil 38/115"
+            },
+            {
+                "name": "Granbull 39/115"
+            },
+            {
+                "name": "Lanturn 40/115"
+            },
+            {
+                "name": "Volcaropod 41/115"
+            },
+            {
+                "name": "Ecr\u00e9meuh 42/115"
+            },
+            {
+                "name": "Noarfang 43/115"
+            },
+            {
+                "name": "Maraiste 44/115"
+            },
+            {
+                "name": "Feurisson 45/115"
+            },
+            {
+                "name": "Ins\u00e9cateur 46/115"
+            },
+            {
+                "name": "Caratroc 47/115"
+            },
+            {
+                "name": "Queulorior 48/115"
+            },
+            {
+                "name": "Xatu 49/115"
+            },
+            {
+                "name": "Yanma 50/115"
+            },
+            {
+                "name": "Germignon 51/115"
+            },
+            {
+                "name": "Loupio 52/115"
+            },
+            {
+                "name": "M\u00e9lof\u00e9e 53/115"
+            },
+            {
+                "name": "H\u00e9ricendre 54/115"
+            },
+            {
+                "name": "Evoli 55/115"
+            },
+            {
+                "name": "Lainergie 56/115"
+            },
+            {
+                "name": "Scorplane 57/115"
+            },
+            {
+                "name": "Ortide 58/115"
+            },
+            {
+                "name": "Hoothoot 59/115"
+            },
+            {
+                "name": "Malosse 60/115"
+            },
+            {
+                "name": "Embrylex 61/115"
+            },
+            {
+                "name": "Wattouat 62/115"
+            },
+            {
+                "name": "Natu 63/115"
+            },
+            {
+                "name": "Mystherbe 64/115"
+            },
+            {
+                "name": "Onix 65/115"
+            },
+            {
+                "name": "Pomdepik 66/115"
+            },
+            {
+                "name": "Ptitard 67/115"
+            },
+            {
+                "name": "T\u00eatarte 68/115"
+            },
+            {
+                "name": "Porygon 69/115"
+            },
+            {
+                "name": "Ymphect 70/115"
+            },
+            {
+                "name": "Remoraid 71/115"
+            },
+            {
+                "name": "Ramoloss 72/115"
+            },
+            {
+                "name": "Limagma 73/115"
+            },
+            {
+                "name": "Snubull 74/115"
+            },
+            {
+                "name": "Mimigal 75/115"
+            },
+            {
+                "name": "Tournegrin 76/115"
+            },
+            {
+                "name": "Teddiursa 77/115"
+            },
+            {
+                "name": "Kaiminus 78/115"
+            },
+            {
+                "name": "Axoloto 79/115"
+            },
+            {
+                "name": "Poudre mal\u00e9fique 80/115"
+            },
+            {
+                "name": "Recyclage d'\u00e9nergie 81/115"
+            },
+            {
+                "name": "Suppression d'\u00c9nergie 2 82/115"
+            },
+            {
+                "name": "Racine \u00c9nergie 83/115"
+            },
+            {
+                "name": "\u00c9change d'\u00e9nergie 84/115"
+            },
+            {
+                "name": "Baie Molletonn\u00e9e 85/115"
+            },
+            {
+                "name": "La Requ\u00eate de Lula 86/115"
+            },
+            {
+                "name": "Pok\u00e9 Ball 87/115"
+            },
+            {
+                "name": "Inversion de Pok\u00e9mon 88/115"
+            },
+            {
+                "name": "M\u00e9thode d'entra\u00eenement du Professeur Orme 89/115"
+            },
+            {
+                "name": "Sph\u00e8re Protectrice 90/115"
+            },
+            {
+                "name": "Baie Sitrus 91/115"
+            },
+            {
+                "name": "Fureur Compacte 92/115"
+            },
+            {
+                "name": "Point d'\u00e9change 93/115"
+            },
+            {
+                "name": "Recherche d'\u00c9nergie 94/115"
+            },
+            {
+                "name": "Potion 95/115"
+            },
+            {
+                "name": "\u00c9nergie Obscurit\u00e9 96/115"
+            },
+            {
+                "name": "\u00c9nergie M\u00e9tal 97/115"
+            },
+            {
+                "name": "\u00c9nergie Super 98/115"
+            },
+            {
+                "name": "\u00c9nergie Cyclone 99/115"
+            },
+            {
+                "name": "Energie de Distorsion 100/115"
+            },
+            {
+                "name": "Leuphorie ex 101/115"
+            },
+            {
+                "name": "Mentali ex 102/115"
+            },
+            {
+                "name": "Aligatueur ex 103/115"
+            },
+            {
+                "name": "Ho-Oh ex 104/115"
+            },
+            {
+                "name": "Lugia ex 105/115"
+            },
+            {
+                "name": "Meganium ex 106/115"
+            },
+            {
+                "name": "Tarpaud ex 107/115"
+            },
+            {
+                "name": "Cizayox ex 108/115"
+            },
+            {
+                "name": "Steelix ex 109/115"
+            },
+            {
+                "name": "Typhlosion ex 110/115"
+            },
+            {
+                "name": "Tyranocif ex 111/115"
+            },
+            {
+                "name": "Noctali ex 112/115"
+            },
+            {
+                "name": "Entei Star 113/115"
+            },
+            {
+                "name": "Raikou Star 114/115"
+            },
+            {
+                "name": "Suicune Star 115/115"
+            },
+            {
+                "name": "Persian ex de Rocket 116/115"
+            },
+            {
+                "name": "Celebi ex 117/115"
+            },
+            {
+                "name": "Zarbi A A/28"
+            },
+            {
+                "name": "Zarbi B B/28"
+            },
+            {
+                "name": "Zarbi C C/28"
+            },
+            {
+                "name": "Zarbi D D/28"
+            },
+            {
+                "name": "Zarbi E E/28"
+            },
+            {
+                "name": "Zarbi F F/28"
+            },
+            {
+                "name": "Zarbi G G/28"
+            },
+            {
+                "name": "Zarbi H H/28"
+            },
+            {
+                "name": "Zarbi I I/28"
+            },
+            {
+                "name": "Zarbi J J/28"
+            },
+            {
+                "name": "Zarbi K K/28"
+            },
+            {
+                "name": "Zarbi L L/28"
+            },
+            {
+                "name": "Zarbi M M/28"
+            },
+            {
+                "name": "Zarbi N N/28"
+            },
+            {
+                "name": "Zarbi O O/28"
+            },
+            {
+                "name": "Zarbi P P/28"
+            },
+            {
+                "name": "Zarbi Q Q/28"
+            },
+            {
+                "name": "Zarbi R R/28"
+            },
+            {
+                "name": "Zarbi S S/28"
+            },
+            {
+                "name": "Zarbi T T/28"
+            },
+            {
+                "name": "Zarbi U U/28"
+            },
+            {
+                "name": "Zarbi V V/28"
+            },
+            {
+                "name": "Zarbi W W/28"
+            },
+            {
+                "name": "Zarbi X X/28"
+            },
+            {
+                "name": "Zarbi Y Y/28"
+            },
+            {
+                "name": "Zarbi Z Z/28"
+            },
+            {
+                "name": "Zarbi ? ?/28"
+            },
+            {
+                "name": "Zarbi ! !/28"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Esp\u00e8ce Delta",
+        "cartes": [
+            {
+                "name": "Dardargnan \u03b4 Esp\u00e8ces Delta 1/113"
+            },
+            {
+                "name": "Nostenfer \u03b4 Esp\u00e8ces Delta 2/113"
+            },
+            {
+                "name": "Dracolosse \u03b4 Esp\u00e8ces Delta 3/113"
+            },
+            {
+                "name": "Mentali \u03b4 Esp\u00e8ces Delta 4/113"
+            },
+            {
+                "name": "Pyroli \u03b4 Esp\u00e8ces Delta 5/113"
+            },
+            {
+                "name": "Gardevoir \u03b4 Esp\u00e8ces Delta 6/113"
+            },
+            {
+                "name": "Voltali \u03b4 Esp\u00e8ces Delta 7/113"
+            },
+            {
+                "name": "Latias \u03b4 Esp\u00e8ces Delta 8/113"
+            },
+            {
+                "name": "Latios \u03b4 Esp\u00e8ces Delta 9/113"
+            },
+            {
+                "name": "Ossatueur \u03b4 Esp\u00e8ces Delta 10/113"
+            },
+            {
+                "name": "Metalosse \u03b4 Esp\u00e8ces Delta 11/113"
+            },
+            {
+                "name": "Mewtwo \u03b4 Esp\u00e8ces Delta 12/113"
+            },
+            {
+                "name": "Rayquaza \u03b4 Esp\u00e8ces Delta 13/113"
+            },
+            {
+                "name": "Drattak \u03b4 Esp\u00e8ces Delta 14/113"
+            },
+            {
+                "name": "Staross \u03b4 Esp\u00e8ces Delta 15/113"
+            },
+            {
+                "name": "Tyranocif \u03b4 Esp\u00e8ces Delta 16/113"
+            },
+            {
+                "name": "Noctali \u03b4 Esp\u00e8ces Delta 17/113"
+            },
+            {
+                "name": "Aquali \u03b4 Esp\u00e8ces Delta 18/113"
+            },
+            {
+                "name": "Azumarill \u03b4 Esp\u00e8ces Delta 19/113"
+            },
+            {
+                "name": "Azurill 20/113"
+            },
+            {
+                "name": "\u00c9lectrode d'Holon 21/113"
+            },
+            {
+                "name": "Magneton d'Holon 22/113"
+            },
+            {
+                "name": "Hypnomade 23/113"
+            },
+            {
+                "name": "Grahyena \u03b4 Esp\u00e8ces Delta 24/113"
+            },
+            {
+                "name": "Porygon2 25/113"
+            },
+            {
+                "name": "Morpheo Pluie 26/113"
+            },
+            {
+                "name": "Sablaireau \u03b4 Esp\u00e8ces Delta 27/113"
+            },
+            {
+                "name": "Roigada 28/113"
+            },
+            {
+                "name": "Morpheo Neige 29/113"
+            },
+            {
+                "name": "Staross \u03b4 Esp\u00e8ces Delta 30/113"
+            },
+            {
+                "name": "Morpheo Soleil 31/113"
+            },
+            {
+                "name": "H\u00e9l\u00e9delle 32/113"
+            },
+            {
+                "name": "Smogogo 33/113"
+            },
+            {
+                "name": "Morpheo 34/113"
+            },
+            {
+                "name": "M\u00e9tamorph 35/113"
+            },
+            {
+                "name": "Metamorph (Bulbizarre) 36/113"
+            },
+            {
+                "name": "Metamorph (Salam\u00e8che) 37/113"
+            },
+            {
+                "name": "Metamorph (Mr.Mime) 38/113"
+            },
+            {
+                "name": "Metamorph (Pikachu) 39/113"
+            },
+            {
+                "name": "Metamorph (Carapuce) 40/113"
+            },
+            {
+                "name": "Draco \u03b4 Esp\u00e8ces Delta 41/113"
+            },
+            {
+                "name": "Draco \u03b4 Esp\u00e8ces Delta 42/113"
+            },
+            {
+                "name": "Nosf\u00e9ralto 43/113"
+            },
+            {
+                "name": "Hariyama 44/113"
+            },
+            {
+                "name": "Lumivole 45/113"
+            },
+            {
+                "name": "Coconfort 46/113"
+            },
+            {
+                "name": "Kirlia 47/113"
+            },
+            {
+                "name": "Magneton 48/113"
+            },
+            {
+                "name": "Metang \u03b4 Esp\u00e8ces Delta 49/113"
+            },
+            {
+                "name": "Persian 50/113"
+            },
+            {
+                "name": "Ymphect \u03b4 Esp\u00e8ces Delta 51/113"
+            },
+            {
+                "name": "Galopa 52/113"
+            },
+            {
+                "name": "Drackhaus \u03b4 Esp\u00e8ces Delta 53/113"
+            },
+            {
+                "name": "Drackhaus \u03b4 Esp\u00e8ces Delta 54/113"
+            },
+            {
+                "name": "Airmure 55/113"
+            },
+            {
+                "name": "Muciole 56/113"
+            },
+            {
+                "name": "Draby \u03b4 Esp\u00e8ces Delta 57/113"
+            },
+            {
+                "name": "Draby \u03b4 Esp\u00e8ces Delta 58/113"
+            },
+            {
+                "name": "Terhal \u03b4 Esp\u00e8ces Delta 59/113"
+            },
+            {
+                "name": "Osselait 60/113"
+            },
+            {
+                "name": "Metamorph (Salam\u00e8che) 61/113"
+            },
+            {
+                "name": "Metamorph (Racaillou) 62/113"
+            },
+            {
+                "name": "Metamorph (Pikachu) 63/113"
+            },
+            {
+                "name": "Metamorph (Carapuce) 64/113"
+            },
+            {
+                "name": "Minidraco \u03b4 Esp\u00e8ces Delta 65/113"
+            },
+            {
+                "name": "Minidraco \u03b4 Esp\u00e8ces Delta 66/113"
+            },
+            {
+                "name": "Soporifik 67/113"
+            },
+            {
+                "name": "Evoli \u03b4 Esp\u00e8ces Delta 68/113"
+            },
+            {
+                "name": "Evoli 69/113"
+            },
+            {
+                "name": "Magneti d'Holon 70/113"
+            },
+            {
+                "name": "Voltorbe d'Holon 71/113"
+            },
+            {
+                "name": "Smogo 72/113"
+            },
+            {
+                "name": "Embrylex \u03b4 Esp\u00e8ces Delta 73/113"
+            },
+            {
+                "name": "Magneti 74/113"
+            },
+            {
+                "name": "Makuhita 75/113"
+            },
+            {
+                "name": "Marill 76/113"
+            },
+            {
+                "name": "Miaouss 77/113"
+            },
+            {
+                "name": "Ponyta 78/113"
+            },
+            {
+                "name": "Medhyena 79/113"
+            },
+            {
+                "name": "Porygon 80/113"
+            },
+            {
+                "name": "Tarsal 81/113"
+            },
+            {
+                "name": "Sabelette 82/113"
+            },
+            {
+                "name": "Ramoloss 83/113"
+            },
+            {
+                "name": "Stari 84/113"
+            },
+            {
+                "name": "Stari 85/113"
+            },
+            {
+                "name": "Nirondelle 86/113"
+            },
+            {
+                "name": "Aspicot 87/113"
+            },
+            {
+                "name": "Nosf\u00e9rapti 88/113"
+            },
+            {
+                "name": "Double Boule 89/113"
+            },
+            {
+                "name": "Super Ball 90/113"
+            },
+            {
+                "name": "Fermier Holon 91/113"
+            },
+            {
+                "name": "Jeune fille Holon 92/113"
+            },
+            {
+                "name": "Mentor Holon 93/113"
+            },
+            {
+                "name": "Tour de Recherche Holon 94/113"
+            },
+            {
+                "name": "Chercheur Holon 95/113"
+            },
+            {
+                "name": "Ruines Holon 96/113"
+            },
+            {
+                "name": "Scientifique Holon 97/113"
+            },
+            {
+                "name": "Emetteur-r\u00e9cepteur Holon 98/113"
+            },
+            {
+                "name": "Master Ball 99/113"
+            },
+            {
+                "name": "Super Rappel 100/113"
+            },
+            {
+                "name": "Potion 101/113"
+            },
+            {
+                "name": "Echange 102/113"
+            },
+            {
+                "name": "\u00c9nergie Obscurit\u00e9 103/113"
+            },
+            {
+                "name": "\u00c9nergie Holon FF 104/113"
+            },
+            {
+                "name": "\u00c9nergie Holon GL 105/113"
+            },
+            {
+                "name": "Energie Holon WP 106/113"
+            },
+            {
+                "name": "\u00c9nergie M\u00e9tal 107/113"
+            },
+            {
+                "name": "Pyroli ex 108/113"
+            },
+            {
+                "name": "Voltali ex 109/113"
+            },
+            {
+                "name": "Aquali ex 110/113"
+            },
+            {
+                "name": "Groudon Star 111/113"
+            },
+            {
+                "name": "Kyogre Star 112/113"
+            },
+            {
+                "name": "Metalosse Star 113/113"
+            },
+            {
+                "name": "Azumarill 114/113"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Cr\u00e9ateurs de L\u00e9gendes",
+        "cartes": [
+            {
+                "name": "Ptera 1/92"
+            },
+            {
+                "name": "Galeking 2/92"
+            },
+            {
+                "name": "Vacilys 3/92"
+            },
+            {
+                "name": "Delcatty 4/92"
+            },
+            {
+                "name": "Ectoplasma 5/92"
+            },
+            {
+                "name": "Grolem 6/92"
+            },
+            {
+                "name": "Kabutops 7/92"
+            },
+            {
+                "name": "Lokhlass 8/92"
+            },
+            {
+                "name": "Mackogneur 9/92"
+            },
+            {
+                "name": "Mew 10/92"
+            },
+            {
+                "name": "Grotadmorv 11/92"
+            },
+            {
+                "name": "Tengalice 12/92"
+            },
+            {
+                "name": "Empiflor 13/92"
+            },
+            {
+                "name": "Wailord 14/92"
+            },
+            {
+                "name": "Absol 15/92"
+            },
+            {
+                "name": "Girafarig 16/92"
+            },
+            {
+                "name": "Rosabyss 17/92"
+            },
+            {
+                "name": "Serpang 18/92"
+            },
+            {
+                "name": "Lanturn 19/92"
+            },
+            {
+                "name": "S\u00e9l\u00e9roc 20/92"
+            },
+            {
+                "name": "Magmar 21/92"
+            },
+            {
+                "name": "Magneton 22/92"
+            },
+            {
+                "name": "Amonistar 23/92"
+            },
+            {
+                "name": "Scarabrute 24/92"
+            },
+            {
+                "name": "Solaroc 25/92"
+            },
+            {
+                "name": "Spinda 26/92"
+            },
+            {
+                "name": "Chartor 27/92"
+            },
+            {
+                "name": "Qulbutoke 28/92"
+            },
+            {
+                "name": "Anorith 29/92"
+            },
+            {
+                "name": "Blindalys 30/92"
+            },
+            {
+                "name": "Insolourdo 31/92"
+            },
+            {
+                "name": "\u00c9lectrode 32/92"
+            },
+            {
+                "name": "Fouinar 33/92"
+            },
+            {
+                "name": "Gravalanch 34/92"
+            },
+            {
+                "name": "Spectrum 35/92"
+            },
+            {
+                "name": "Kabuto 36/92"
+            },
+            {
+                "name": "Kecleon 37/92"
+            },
+            {
+                "name": "Galegon 38/92"
+            },
+            {
+                "name": "Machopeur 39/92"
+            },
+            {
+                "name": "Feuforeve 40/92"
+            },
+            {
+                "name": "Pifeuil 41/92"
+            },
+            {
+                "name": "Roselia 42/92"
+            },
+            {
+                "name": "Phogleur 43/92"
+            },
+            {
+                "name": "Saquedeneu 44/92"
+            },
+            {
+                "name": "Tentacruel 45/92"
+            },
+            {
+                "name": "Vibraninf 46/92"
+            },
+            {
+                "name": "Boustiflor 47/92"
+            },
+            {
+                "name": "Galekid 48/92"
+            },
+            {
+                "name": "Ch\u00e9tiflor 49/92"
+            },
+            {
+                "name": "Loupio 50/92"
+            },
+            {
+                "name": "Coquiperl 51/92"
+            },
+            {
+                "name": "Fantominus 52/92"
+            },
+            {
+                "name": "Racaillou 53/92"
+            },
+            {
+                "name": "Tadmorv 54/92"
+            },
+            {
+                "name": "Caninos 55/92"
+            },
+            {
+                "name": "Lilia 56/92"
+            },
+            {
+                "name": "Machoc 57/92"
+            },
+            {
+                "name": "Magby 58/92"
+            },
+            {
+                "name": "Magneti 59/92"
+            },
+            {
+                "name": "Amonita 60/92"
+            },
+            {
+                "name": "Grainipiot 61/92"
+            },
+            {
+                "name": "Fouinette 62/92"
+            },
+            {
+                "name": "Polichombr 63/92"
+            },
+            {
+                "name": "Skitty 64/92"
+            },
+            {
+                "name": "Obalie 65/92"
+            },
+            {
+                "name": "Tentacool 66/92"
+            },
+            {
+                "name": "Kraknoix 67/92"
+            },
+            {
+                "name": "Voltorbe 68/92"
+            },
+            {
+                "name": "Wailmer 69/92"
+            },
+            {
+                "name": "Chenipotte 70/92"
+            },
+            {
+                "name": "Ok\u00e9ok\u00e9 71/92"
+            },
+            {
+                "name": "Pierre mal\u00e9fique 72/92"
+            },
+            {
+                "name": "Travailleur de terrain 73/92"
+            },
+            {
+                "name": "Flamme maximale 74/92"
+            },
+            {
+                "name": "Souche g\u00e9ante 75/92"
+            },
+            {
+                "name": "Arbre \u00e0 puissance 76/92"
+            },
+            {
+                "name": "Cave \u00e9trange 77/92"
+            },
+            {
+                "name": "Fossile griffe 78/92"
+            },
+            {
+                "name": "Myst\u00e9rieux Fossile 79/92"
+            },
+            {
+                "name": "Fossile racine 80/92"
+            },
+            {
+                "name": "\u00c9nergie Multicolore 81/92"
+            },
+            {
+                "name": "\u00c9nergie r\u00e9action 82/92"
+            },
+            {
+                "name": "Arcanin ex 83/92"
+            },
+            {
+                "name": "Armaldo ex 84/92"
+            },
+            {
+                "name": "Branette ex 85/92"
+            },
+            {
+                "name": "Papinox ex 86/92"
+            },
+            {
+                "name": "Libegon ex 87/92"
+            },
+            {
+                "name": "Mew ex 88/92"
+            },
+            {
+                "name": "Kaimorse ex 89/92"
+            },
+            {
+                "name": "Regice Star 90/92"
+            },
+            {
+                "name": "Regirock Star 91/92"
+            },
+            {
+                "name": "Registeel Star 92/92"
+            },
+            {
+                "name": "Pikachu \u03b4 Esp\u00e8ces Delta 93/92"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Fant\u00f4mes Holon",
+        "cartes": [
+            {
+                "name": "Armaldo \u03b4 Esp\u00e8ces Delta 1/110"
+            },
+            {
+                "name": "Vacilys \u03b4 Esp\u00e8ces Delta 2/110"
+            },
+            {
+                "name": "Deoxys \u03b4 Esp\u00e8ces Delta 3/110"
+            },
+            {
+                "name": "Deoxys \u03b4 Esp\u00e8ces Delta 4/110"
+            },
+            {
+                "name": "Deoxys \u03b4 Esp\u00e8ces Delta 5/110"
+            },
+            {
+                "name": "Deoxys \u03b4 Esp\u00e8ces Delta 6/110"
+            },
+            {
+                "name": "Lib\u00e9gon \u03b4 Esp\u00e8ces Delta 7/110"
+            },
+            {
+                "name": "L\u00e9viator \u03b4 Esp\u00e8ces Delta 8/110"
+            },
+            {
+                "name": "Kabutops \u03b4 Esp\u00e8ces Delta 9/110"
+            },
+            {
+                "name": "Hyporoi \u03b4 Esp\u00e8ces Delta 10/110"
+            },
+            {
+                "name": "Latias \u03b4 Esp\u00e8ces Delta 11/110"
+            },
+            {
+                "name": "Latios \u03b4 Esp\u00e8ces Delta 12/110"
+            },
+            {
+                "name": "Amonistar \u03b4 Esp\u00e8ces Delta 13/110"
+            },
+            {
+                "name": "Roucarnage \u03b4 Esp\u00e8ces Delta 14/110"
+            },
+            {
+                "name": "Raichu \u03b4 Esp\u00e8ces Delta 15/110"
+            },
+            {
+                "name": "Rayquaza \u03b4 Esp\u00e8ces Delta 16/110"
+            },
+            {
+                "name": "Raffl\u00e9sia \u03b4 Esp\u00e8ces Delta 17/110"
+            },
+            {
+                "name": "Absol 18/110"
+            },
+            {
+                "name": "Joliflor \u03b4 Esp\u00e8ces Delta 19/110"
+            },
+            {
+                "name": "Brasegali 20/110"
+            },
+            {
+                "name": "Latias \u03b4 Esp\u00e8ces Delta 21/110"
+            },
+            {
+                "name": "Latios \u03b4 Esp\u00e8ces Delta 22/110"
+            },
+            {
+                "name": "Mysdibule 23/110"
+            },
+            {
+                "name": "Mewtwo \u03b4 Esp\u00e8ces Delta 24/110"
+            },
+            {
+                "name": "Tarinor 25/110"
+            },
+            {
+                "name": "Rayquaza \u03b4 Esp\u00e8ces Delta 26/110"
+            },
+            {
+                "name": "Regice 27/110"
+            },
+            {
+                "name": "Regirock 28/110"
+            },
+            {
+                "name": "Registeel 29/110"
+            },
+            {
+                "name": "Relicanth 30/110"
+            },
+            {
+                "name": "T\u00e9n\u00e9fix 31/110"
+            },
+            {
+                "name": "Seviper 32/110"
+            },
+            {
+                "name": "Chartor 33/110"
+            },
+            {
+                "name": "Mangriff 34/110"
+            },
+            {
+                "name": "Ptera \u03b4 Esp\u00e8ces Delta 35/110"
+            },
+            {
+                "name": "Camerupt 36/110"
+            },
+            {
+                "name": "Eoko \u03b4 Esp\u00e8ces Delta 37/110"
+            },
+            {
+                "name": "Kaorine 38/110"
+            },
+            {
+                "name": "Galifeu 39/110"
+            },
+            {
+                "name": "Donphan 40/110"
+            },
+            {
+                "name": "Noadkoko \u03b4 Esp\u00e8ces Delta 41/110"
+            },
+            {
+                "name": "Ortide \u03b4 Esp\u00e8ces Delta 42/110"
+            },
+            {
+                "name": "Akwakwak \u03b4 Esp\u00e8ces Delta 43/110"
+            },
+            {
+                "name": "Morpheo d'Holon 44/110"
+            },
+            {
+                "name": "Galegon 45/110"
+            },
+            {
+                "name": "Elecsprint 46/110"
+            },
+            {
+                "name": "Maskadra 47/110"
+            },
+            {
+                "name": "Persian \u03b4 Esp\u00e8ces Delta 48/110"
+            },
+            {
+                "name": "Roucoups \u03b4 Esp\u00e8ces Delta 49/110"
+            },
+            {
+                "name": "Colossinge \u03b4 Esp\u00e8ces Delta 50/110"
+            },
+            {
+                "name": "Raichu 51/110"
+            },
+            {
+                "name": "Hypoc\u00e9an \u03b4 Esp\u00e8ces Delta 52/110"
+            },
+            {
+                "name": "Sharpedo \u03b4 Esp\u00e8ces Delta 53/110"
+            },
+            {
+                "name": "Vibraninf \u03b4 Esp\u00e8ces Delta 54/110"
+            },
+            {
+                "name": "Barbicha 55/110"
+            },
+            {
+                "name": "Qulbutoke 56/110"
+            },
+            {
+                "name": "Anorith \u03b4 Esp\u00e8ces Delta 57/110"
+            },
+            {
+                "name": "Galekid 58/110"
+            },
+            {
+                "name": "Balbuto 59/110"
+            },
+            {
+                "name": "Barloche 60/110"
+            },
+            {
+                "name": "Carvanha \u03b4 Esp\u00e8ces Delta 61/110"
+            },
+            {
+                "name": "Ecrapince 62/110"
+            },
+            {
+                "name": "Ecrapince 63/110"
+            },
+            {
+                "name": "Dynavolt 64/110"
+            },
+            {
+                "name": "Noeunoeuf \u03b4 Esp\u00e8ces Delta 65/110"
+            },
+            {
+                "name": "Hypotrempe \u03b4 Esp\u00e8ces Delta 66/110"
+            },
+            {
+                "name": "Kabuto \u03b4 Esp\u00e8ces Delta 67/110"
+            },
+            {
+                "name": "Lilia \u03b4 Esp\u00e8ces Delta 68/110"
+            },
+            {
+                "name": "Magicarpe \u03b4 Esp\u00e8ces Delta 69/110"
+            },
+            {
+                "name": "F\u00e9rosinge \u03b4 Esp\u00e8ces Delta 70/110"
+            },
+            {
+                "name": "Miaouss \u03b4 Esp\u00e8ces Delta 71/110"
+            },
+            {
+                "name": "Chamallot 72/110"
+            },
+            {
+                "name": "Mystherbe \u03b4 Esp\u00e8ces Delta 73/110"
+            },
+            {
+                "name": "Amonita \u03b4 Esp\u00e8ces Delta 74/110"
+            },
+            {
+                "name": "Phanpy 75/110"
+            },
+            {
+                "name": "Pichu \u03b4 Esp\u00e8ces Delta 76/110"
+            },
+            {
+                "name": "Roucool \u03b4 Esp\u00e8ces Delta 77/110"
+            },
+            {
+                "name": "Pikachu 78/110"
+            },
+            {
+                "name": "Pikachu \u03b4 Esp\u00e8ces Delta 79/110"
+            },
+            {
+                "name": "Medhyena 80/110"
+            },
+            {
+                "name": "Psykokwak \u03b4 Esp\u00e8ces Delta 81/110"
+            },
+            {
+                "name": "Arakdo 82/110"
+            },
+            {
+                "name": "Poussifeu 83/110"
+            },
+            {
+                "name": "Kraknoix \u03b4 Esp\u00e8ces Delta 84/110"
+            },
+            {
+                "name": "Aventurier Holon 85/110"
+            },
+            {
+                "name": "Fossile Holon 86/110"
+            },
+            {
+                "name": "Lac Holon 87/110"
+            },
+            {
+                "name": "Le Projet de M. Rochard 88/110"
+            },
+            {
+                "name": "La d\u00e9couverte du Professeur Kosmo 89/110"
+            },
+            {
+                "name": "Super bonbon 90/110"
+            },
+            {
+                "name": "Fossile griffe 91/110"
+            },
+            {
+                "name": "Myst\u00e9rieux Fossile 92/110"
+            },
+            {
+                "name": "Fossile racine 93/110"
+            },
+            {
+                "name": "\u00c9nergie Obscurit\u00e9 94/110"
+            },
+            {
+                "name": "\u00c9nergie M\u00e9tal 95/110"
+            },
+            {
+                "name": "\u00c9nergies multiples 96/110"
+            },
+            {
+                "name": "\u00c9nergie M\u00e9tal Obscur 97/110"
+            },
+            {
+                "name": "\u00c9nergie Multicolore Delta 98/110"
+            },
+            {
+                "name": "Colhomard ex 99/110"
+            },
+            {
+                "name": "Mew ex 100/110"
+            },
+            {
+                "name": "Grahyena ex 101/110"
+            },
+            {
+                "name": "L\u00e9viator Star \u03b4 Esp\u00e8ces Delta 102/110"
+            },
+            {
+                "name": "Mewtwo Star 103/110"
+            },
+            {
+                "name": "Pikachu Star 104/110"
+            },
+            {
+                "name": "\u00c9nergie Plante 105/110"
+            },
+            {
+                "name": "\u00c9nergie Feu 106/110"
+            },
+            {
+                "name": "Energie Eau 107/110"
+            },
+            {
+                "name": "\u00c9nergie Electrique 108/110"
+            },
+            {
+                "name": "\u00c9nergie Psy 109/110"
+            },
+            {
+                "name": "\u00c9nergie Combat 110/110"
+            },
+            {
+                "name": "Mew 111/110"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Gardiens de Cristal",
+        "cartes": [
+            {
+                "name": "Branette 1/100"
+            },
+            {
+                "name": "Tortank \u03b4 Esp\u00e8ces Delta 2/100"
+            },
+            {
+                "name": "Camerupt 3/100"
+            },
+            {
+                "name": "Dracaufeu \u03b4 Esp\u00e8ces Delta 4/100"
+            },
+            {
+                "name": "Triopikeur 5/100"
+            },
+            {
+                "name": "Ludicolo \u03b4 Esp\u00e8ces Delta 6/100"
+            },
+            {
+                "name": "Lovdisc 7/100"
+            },
+            {
+                "name": "Elecsprint 8/100"
+            },
+            {
+                "name": "Mysdibule 9/100"
+            },
+            {
+                "name": "T\u00e9n\u00e9fix 10/100"
+            },
+            {
+                "name": "Avaltout 11/100"
+            },
+            {
+                "name": "Tauros 12/100"
+            },
+            {
+                "name": "Grodoudou 13/100"
+            },
+            {
+                "name": "Tortank 14/100"
+            },
+            {
+                "name": "Cacturne \u03b4 Esp\u00e8ces Delta 15/100"
+            },
+            {
+                "name": "Galifeu 16/100"
+            },
+            {
+                "name": "Teraclope 17/100"
+            },
+            {
+                "name": "Rapasdepic \u03b4 Esp\u00e8ces Delta 18/100"
+            },
+            {
+                "name": "Massko \u03b4 Esp\u00e8ces Delta 19/100"
+            },
+            {
+                "name": "Groret 20/100"
+            },
+            {
+                "name": "Toudoudou 21/100"
+            },
+            {
+                "name": "Krabboss \u03b4 Esp\u00e8ces Delta 22/100"
+            },
+            {
+                "name": "Ramboum 23/100"
+            },
+            {
+                "name": "Flobio 24/100"
+            },
+            {
+                "name": "Charmina 25/100"
+            },
+            {
+                "name": "Bekipan \u03b4 Esp\u00e8ces Delta 26/100"
+            },
+            {
+                "name": "Laggron 27/100"
+            },
+            {
+                "name": "Florizarre 28/100"
+            },
+            {
+                "name": "Reptincel 29/100"
+            },
+            {
+                "name": "Reptincel \u03b4 Esp\u00e8ces Delta 30/100"
+            },
+            {
+                "name": "Galifeu 31/100"
+            },
+            {
+                "name": "Massko 32/100"
+            },
+            {
+                "name": "Gloupti 33/100"
+            },
+            {
+                "name": "Herbizarre 34/100"
+            },
+            {
+                "name": "Herbizarre 35/100"
+            },
+            {
+                "name": "Galegon 36/100"
+            },
+            {
+                "name": "Lombre 37/100"
+            },
+            {
+                "name": "Flobio 38/100"
+            },
+            {
+                "name": "Pifeuil 39/100"
+            },
+            {
+                "name": "Polichombr 40/100"
+            },
+            {
+                "name": "Skitty 41/100"
+            },
+            {
+                "name": "Carabaffe 42/100"
+            },
+            {
+                "name": "Carabaffe 43/100"
+            },
+            {
+                "name": "Galekid 44/100"
+            },
+            {
+                "name": "Bulbizarre 45/100"
+            },
+            {
+                "name": "Bulbizarre 46/100"
+            },
+            {
+                "name": "Cacn\u00e9a 47/100"
+            },
+            {
+                "name": "Salam\u00e8che 48/100"
+            },
+            {
+                "name": "Salam\u00e8che \u03b4 Esp\u00e8ces Delta 49/100"
+            },
+            {
+                "name": "Taupiqueur 50/100"
+            },
+            {
+                "name": "Skelenox 51/100"
+            },
+            {
+                "name": "Dynavolt 52/100"
+            },
+            {
+                "name": "Rondoudou 53/100"
+            },
+            {
+                "name": "Krabby 54/100"
+            },
+            {
+                "name": "Nenupiot 55/100"
+            },
+            {
+                "name": "Meditikka 56/100"
+            },
+            {
+                "name": "Gobou 57/100"
+            },
+            {
+                "name": "Gobou 58/100"
+            },
+            {
+                "name": "Chamallot 59/100"
+            },
+            {
+                "name": "Grainipiot 60/100"
+            },
+            {
+                "name": "Piafabec 61/100"
+            },
+            {
+                "name": "Spoink 62/100"
+            },
+            {
+                "name": "Carapuce 63/100"
+            },
+            {
+                "name": "Carapuce 64/100"
+            },
+            {
+                "name": "Poussifeu 65/100"
+            },
+            {
+                "name": "Poussifeu 66/100"
+            },
+            {
+                "name": "Arcko 67/100"
+            },
+            {
+                "name": "Arcko \u03b4 Esp\u00e8ces Delta 68/100"
+            },
+            {
+                "name": "Chuchmur 69/100"
+            },
+            {
+                "name": "Goelise 70/100"
+            },
+            {
+                "name": "Entretien de L\u00e9o 71/100"
+            },
+            {
+                "name": "Naufrag\u00e9 72/100"
+            },
+            {
+                "name": "Le R\u00e9seau de Cileo 73/100"
+            },
+            {
+                "name": "Arr\u00eat de cristal 74/100"
+            },
+            {
+                "name": "Plage de cristal 75/100"
+            },
+            {
+                "name": " \u00c9charde de cristal 76/100"
+            },
+            {
+                "name": "Double gu\u00e9rison totale 77/100"
+            },
+            {
+                "name": "Double Boule 78/100"
+            },
+            {
+                "name": "Cercle Holon 79/100"
+            },
+            {
+                "name": "Baie de M\u00e9moire 80/100"
+            },
+            {
+                "name": "Echarde myst\u00e9rieuse 81/100"
+            },
+            {
+                "name": "Pok\u00e9 Balle 82/100"
+            },
+            {
+                "name": "Pok\u00e9Nav 83/100"
+            },
+            {
+                "name": "Point d'\u00e9change 84/100"
+            },
+            {
+                "name": "Temp\u00eate 85/100"
+            },
+            {
+                "name": "Recherche d'\u00c9nergie 86/100"
+            },
+            {
+                "name": "Potion 87/100"
+            },
+            {
+                "name": "Double \u00c9nergie Multicolore 88/100"
+            },
+            {
+                "name": "Galeking ex 89/100"
+            },
+            {
+                "name": "Brasegali ex 90/100"
+            },
+            {
+                "name": "Delcatty ex 91/100"
+            },
+            {
+                "name": "Brouhabam ex 92/100"
+            },
+            {
+                "name": "Groudon ex 93/100"
+            },
+            {
+                "name": "Jirachi ex 94/100"
+            },
+            {
+                "name": "Kyogre ex 95/100"
+            },
+            {
+                "name": "Jungko ex \u03b4 Esp\u00e8ces Delta 96/100"
+            },
+            {
+                "name": "Tengalice ex 97/100"
+            },
+            {
+                "name": "Laggron ex 98/100"
+            },
+            {
+                "name": "Alakazam Star 99/100"
+            },
+            {
+                "name": "Celebi Star 100/100"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Iles des Dragons",
+        "cartes": [
+            {
+                "name": "Pharamp \u03b4 Esp\u00e8ces Delta 1/101"
+            },
+            {
+                "name": "Aligatueur \u03b4 Esp\u00e8ces Delta 2/101"
+            },
+            {
+                "name": "Scarhino \u03b4 Esp\u00e8ces Delta 3/101"
+            },
+            {
+                "name": "M\u00e9ganium \u03b4 Esp\u00e8ces Delta 4/101"
+            },
+            {
+                "name": "Milobellus \u03b4 Esp\u00e8ces Delta 5/101"
+            },
+            {
+                "name": "Nidoking \u03b4 Esp\u00e8ces Delta 6/101"
+            },
+            {
+                "name": "Nidoqueen \u03b4 Esp\u00e8ces Delta 7/101"
+            },
+            {
+                "name": "Feunard \u03b4 Esp\u00e8ces Delta 8/101"
+            },
+            {
+                "name": "Scarabrute \u03b4 Esp\u00e8ces Delta 9/101"
+            },
+            {
+                "name": "Ronflex \u03b4 Esp\u00e8ces Delta 10/101"
+            },
+            {
+                "name": "Togetic \u03b4 Esp\u00e8ces Delta 11/101"
+            },
+            {
+                "name": "Typhlosion \u03b4 Esp\u00e8ces Delta 12/101"
+            },
+            {
+                "name": "Arbok \u03b4 Esp\u00e8ces Delta 13/101"
+            },
+            {
+                "name": "Crustabri \u03b4 Esp\u00e8ces Delta 14/101"
+            },
+            {
+                "name": "Lamantine \u03b4 Esp\u00e8ces Delta 15/101"
+            },
+            {
+                "name": "Scorplane \u03b4 Esp\u00e8ces Delta 16/101"
+            },
+            {
+                "name": "Lippoutou \u03b4 Esp\u00e8ces Delta 17/101"
+            },
+            {
+                "name": "Coxyclaque \u03b4 Esp\u00e8ces Delta 18/101"
+            },
+            {
+                "name": "Excelangue \u03b4 Esp\u00e8ces Delta 19/101"
+            },
+            {
+                "name": "Demanta \u03b4 Esp\u00e8ces Delta 20/101"
+            },
+            {
+                "name": "Maraiste \u03b4 Esp\u00e8ces Delta 21/101"
+            },
+            {
+                "name": "Hypoc\u00e9an \u03b4 Esp\u00e8ces Delta 22/101"
+            },
+            {
+                "name": "Tropius \u03b4 Esp\u00e8ces Delta 23/101"
+            },
+            {
+                "name": "Vibraninf \u03b4 Esp\u00e8ces Delta 24/101"
+            },
+            {
+                "name": "Xatu \u03b4 Esp\u00e8ces Delta 25/101"
+            },
+            {
+                "name": "Macronium \u03b4 Esp\u00e8ces Delta 26/101"
+            },
+            {
+                "name": "Crocrodil \u03b4 Esp\u00e8ces Delta 27/101"
+            },
+            {
+                "name": "Draco \u03b4 Esp\u00e8ces Delta 28/101"
+            },
+            {
+                "name": "Elektek \u03b4 Esp\u00e8ces Delta 29/101"
+            },
+            {
+                "name": "Lainergie \u03b4 Esp\u00e8ces Delta 30/101"
+            },
+            {
+                "name": "Hypotrempe \u03b4 Esp\u00e8ces Delta 31/101"
+            },
+            {
+                "name": "Kirlia 32/101"
+            },
+            {
+                "name": "Kirlia \u03b4 Esp\u00e8ces Delta 33/101"
+            },
+            {
+                "name": "Nidorina \u03b4 Esp\u00e8ces Delta 34/101"
+            },
+            {
+                "name": "Nidorino \u03b4 Esp\u00e8ces Delta 35/101"
+            },
+            {
+                "name": "Feurisson \u03b4 Esp\u00e8ces Delta 36/101"
+            },
+            {
+                "name": "Hypoc\u00e9an \u03b4 Esp\u00e8ces Delta 37/101"
+            },
+            {
+                "name": "Drackhaus \u03b4 Esp\u00e8ces Delta 38/101"
+            },
+            {
+                "name": "Queulorior \u03b4 Esp\u00e8ces Delta 39/101"
+            },
+            {
+                "name": "H\u00e9l\u00e9delle \u03b4 Esp\u00e8ces Delta 40/101"
+            },
+            {
+                "name": "Togepi \u03b4 Esp\u00e8ces Delta 41/101"
+            },
+            {
+                "name": "Vibraninf \u03b4 Esp\u00e8ces Delta 42/101"
+            },
+            {
+                "name": "Draby \u03b4 Esp\u00e8ces Delta 43/101"
+            },
+            {
+                "name": "Germignon \u03b4 Esp\u00e8ces Delta 44/101"
+            },
+            {
+                "name": "H\u00e9ricendre \u03b4 Esp\u00e8ces Delta 45/101"
+            },
+            {
+                "name": "Minidraco \u03b4 Esp\u00e8ces Delta 46/101"
+            },
+            {
+                "name": "Abo \u03b4 Esp\u00e8ces Delta 47/101"
+            },
+            {
+                "name": "Elekid \u03b4 Esp\u00e8ces Delta 48/101"
+            },
+            {
+                "name": "Barpau \u03b4 Esp\u00e8ces Delta 49/101"
+            },
+            {
+                "name": "Hypotrempe \u03b4 Esp\u00e8ces Delta 50/101"
+            },
+            {
+                "name": "Embrylex 51/101"
+            },
+            {
+                "name": "Embrylex \u03b4 Esp\u00e8ces Delta 52/101"
+            },
+            {
+                "name": "Coxy \u03b4 Esp\u00e8ces Delta 53/101"
+            },
+            {
+                "name": "Wattouat \u03b4 Esp\u00e8ces Delta 54/101"
+            },
+            {
+                "name": "Natu \u03b4 Esp\u00e8ces Delta 55/101"
+            },
+            {
+                "name": "Nidoran F \u03b4 Esp\u00e8ces Delta 56/101"
+            },
+            {
+                "name": "Nidoran M \u03b4 Esp\u00e8ces Delta 57/101"
+            },
+            {
+                "name": "Ymphect 58/101"
+            },
+            {
+                "name": "Ymphect \u03b4 Esp\u00e8ces Delta 59/101"
+            },
+            {
+                "name": "Tarsal 60/101"
+            },
+            {
+                "name": "Tarsal \u03b4 Esp\u00e8ces Delta 61/101"
+            },
+            {
+                "name": "Otaria \u03b4 Esp\u00e8ces Delta 62/101"
+            },
+            {
+                "name": "Kokiyas \u03b4 Esp\u00e8ces Delta 63/101"
+            },
+            {
+                "name": "Lippouti \u03b4 Esp\u00e8ces Delta 64/101"
+            },
+            {
+                "name": "Tylton \u03b4 Esp\u00e8ces Delta 65/101"
+            },
+            {
+                "name": "Nirondelle \u03b4 Esp\u00e8ces Delta 66/101"
+            },
+            {
+                "name": "Kaiminus \u03b4 Esp\u00e8ces Delta 67/101"
+            },
+            {
+                "name": "Kraknoix \u03b4 Esp\u00e8ces Delta 68/101"
+            },
+            {
+                "name": "Kraknoix \u03b4 Esp\u00e8ces Delta 69/101"
+            },
+            {
+                "name": "Goupix \u03b4 Esp\u00e8ces Delta 70/101"
+            },
+            {
+                "name": "Axoloto \u03b4 Esp\u00e8ces Delta 71/101"
+            },
+            {
+                "name": "Pare-chocs 72/101"
+            },
+            {
+                "name": "Copieuse 73/101"
+            },
+            {
+                "name": "H\u00e9ritage Holon 74/101"
+            },
+            {
+                "name": "Mentor Holon 75/101"
+            },
+            {
+                "name": "L'ermite de l'\u00eele 76/101"
+            },
+            {
+                "name": "Le Projet de M. Rochard 77/101"
+            },
+            {
+                "name": "Canne 78/101"
+            },
+            {
+                "name": "M\u00e9thode d'entra\u00eenement du Professeur Orme 79/101"
+            },
+            {
+                "name": "Recherche du Professeur Chen 80/101"
+            },
+            {
+                "name": "F\u00e9tiche de Force 81/101"
+            },
+            {
+                "name": "Journaliste t\u00e9l\u00e9 82/101"
+            },
+            {
+                "name": "Echange 83/101"
+            },
+            {
+                "name": "\u00c9nergie Holon FF 84/101"
+            },
+            {
+                "name": "\u00c9nergie Holon GL 85/101"
+            },
+            {
+                "name": "Energie Holon WP 86/101"
+            },
+            {
+                "name": "\u00c9nergie Super 87/101"
+            },
+            {
+                "name": "\u00c9nergie Multicolore Delta 88/101"
+            },
+            {
+                "name": "\u00c9nergie cod\u00e9e 89/101"
+            },
+            {
+                "name": "Altaria ex \u03b4 Esp\u00e8ces Delta 90/101"
+            },
+            {
+                "name": "Dracolosse ex \u03b4 Esp\u00e8ces Delta 91/101"
+            },
+            {
+                "name": "Libegon ex \u03b4 Esp\u00e8ces Delta 92/101"
+            },
+            {
+                "name": "Gardevoir ex \u03b4 Esp\u00e8ces Delta 93/101"
+            },
+            {
+                "name": "Hyporoi ex \u03b4 Esp\u00e8ces Delta 94/101"
+            },
+            {
+                "name": "Latias ex \u03b4 Esp\u00e8ces Delta 95/101"
+            },
+            {
+                "name": "Latios ex \u03b4 Esp\u00e8ces Delta 96/101"
+            },
+            {
+                "name": "Rayquaza ex \u03b4 Esp\u00e8ces Delta 97/101"
+            },
+            {
+                "name": "Drattak ex \u03b4 Esp\u00e8ces Delta 98/101"
+            },
+            {
+                "name": "Tyranocif ex \u03b4 Esp\u00e8ces Delta 99/101"
+            },
+            {
+                "name": "Dracaufeu Star \u03b4 Esp\u00e8ces Delta 100/101"
+            },
+            {
+                "name": "Mew Star \u03b4 Esp\u00e8ces Delta 101/101"
+            }
+        ]
+    },
+    {
+        "serie": "EX : Gardiens du Pouvoir",
+        "cartes": [
+            {
+                "name": "Galeking 1/108"
+            },
+            {
+                "name": "Altaria 2/108"
+            },
+            {
+                "name": "Armaldo 3/108"
+            },
+            {
+                "name": "Branette 4/108"
+            },
+            {
+                "name": "Brasegali 5/108"
+            },
+            {
+                "name": "Dracaufeu 6/108"
+            },
+            {
+                "name": "Vacilys 7/108"
+            },
+            {
+                "name": "Delcatty 8/108"
+            },
+            {
+                "name": "Gardevoir 9/108"
+            },
+            {
+                "name": "Kabutops 10/108"
+            },
+            {
+                "name": "Mackogneur 11/108"
+            },
+            {
+                "name": "Raichu 12/108"
+            },
+            {
+                "name": "Monaflemit 13/108"
+            },
+            {
+                "name": "Teraclope 14/108"
+            },
+            {
+                "name": "Lanturn 15/108"
+            },
+            {
+                "name": "Magneton 16/108"
+            },
+            {
+                "name": "Mysdibule 17/108"
+            },
+            {
+                "name": "Grahyena 18/108"
+            },
+            {
+                "name": "Feunard 19/108"
+            },
+            {
+                "name": "Amonistar 20/108"
+            },
+            {
+                "name": "Pichu 21/108"
+            },
+            {
+                "name": "T\u00e9n\u00e9fix 22/108"
+            },
+            {
+                "name": "Seviper 23/108"
+            },
+            {
+                "name": "Qulbutoke 24/108"
+            },
+            {
+                "name": "Mangriff 25/108"
+            },
+            {
+                "name": "Anorith 26/108"
+            },
+            {
+                "name": "Cacturne 27/108"
+            },
+            {
+                "name": "Reptincel 28/108"
+            },
+            {
+                "name": "Galifeu 29/108"
+            },
+            {
+                "name": "Oniglali 30/108"
+            },
+            {
+                "name": "Kirlia 31/108"
+            },
+            {
+                "name": "Galegon 32/108"
+            },
+            {
+                "name": "Machopeur 33/108"
+            },
+            {
+                "name": "Charmina 34/108"
+            },
+            {
+                "name": "Metang 35/108"
+            },
+            {
+                "name": "Pifeuil 36/108"
+            },
+            {
+                "name": "Phogleur 37/108"
+            },
+            {
+                "name": "Sharpedo 38/108"
+            },
+            {
+                "name": "Drackhaus 39/108"
+            },
+            {
+                "name": "Vibraninf 40/108"
+            },
+            {
+                "name": "Vigoroth 41/108"
+            },
+            {
+                "name": "Galekid 42/108"
+            },
+            {
+                "name": "Draby 43/108"
+            },
+            {
+                "name": "Balbuto 44/108"
+            },
+            {
+                "name": "Terhal 45/108"
+            },
+            {
+                "name": "Cacn\u00e9a 46/108"
+            },
+            {
+                "name": "Carvanha 47/108"
+            },
+            {
+                "name": "Salam\u00e8che 48/108"
+            },
+            {
+                "name": "Loupio 49/108"
+            },
+            {
+                "name": "Skelenox 50/108"
+            },
+            {
+                "name": "Kabuto 51/108"
+            },
+            {
+                "name": "Lilia 52/108"
+            },
+            {
+                "name": "Machoc 53/108"
+            },
+            {
+                "name": "Magneti 54/108"
+            },
+            {
+                "name": "Meditikka 55/108"
+            },
+            {
+                "name": "Amonita 56/108"
+            },
+            {
+                "name": "Pikachu 57/108"
+            },
+            {
+                "name": "Medhyena 58/108"
+            },
+            {
+                "name": "Tarsal 59/108"
+            },
+            {
+                "name": "Grainipiot 60/108"
+            },
+            {
+                "name": "Polichombr 61/108"
+            },
+            {
+                "name": "Skitty 62/108"
+            },
+            {
+                "name": "Parecool 63/108"
+            },
+            {
+                "name": "Stalgamin 64/108"
+            },
+            {
+                "name": "Obalie 65/108"
+            },
+            {
+                "name": "Tylton 66/108"
+            },
+            {
+                "name": "Poussifeu 67/108"
+            },
+            {
+                "name": "Kraknoix 68/108"
+            },
+            {
+                "name": "Goupix 69/108"
+            },
+            {
+                "name": "Ok\u00e9ok\u00e9 70/108"
+            },
+            {
+                "name": "Zone de combat 71/108"
+            },
+            {
+                "name": "Stade d'Aragon 72/108"
+            },
+            {
+                "name": "Recyclage d'\u00e9nergie 73/108"
+            },
+            {
+                "name": "Suppression d'\u00c9nergie 2 74/108"
+            },
+            {
+                "name": "\u00c9change d'\u00e9nergie 75/108"
+            },
+            {
+                "name": "Stade de Glacia 76/108"
+            },
+            {
+                "name": "Super Ball 77/108"
+            },
+            {
+                "name": "Master Ball 78/108"
+            },
+            {
+                "name": "Stade de Spectra 79/108"
+            },
+            {
+                "name": "Professor Seko 80/108"
+            },
+            {
+                "name": "Scott 81/108"
+            },
+            {
+                "name": "Stade de Damien 82/108"
+            },
+            {
+                "name": "Les conseils de Pierre 83/108"
+            },
+            {
+                "name": "Fossile Griffe HP 40 84/108"
+            },
+            {
+                "name": "Myst\u00e9rieux Fossile HP 50 85/108"
+            },
+            {
+                "name": "Fossile Racine HP 40 86/108"
+            },
+            {
+                "name": "\u00c9nergie Obscurit\u00e9 87/108"
+            },
+            {
+                "name": "\u00c9nergie M\u00e9tal 88/108"
+            },
+            {
+                "name": "\u00c9nergies multiples 89/108"
+            },
+            {
+                "name": "\u00c9nergie Cyclone 90/108"
+            },
+            {
+                "name": "Energie de Distorsion 91/108"
+            },
+            {
+                "name": "Absol ex 92/108"
+            },
+            {
+                "name": "Kaorine ex 93/108"
+            },
+            {
+                "name": "Libegon ex 94/108"
+            },
+            {
+                "name": "Metalosse ex 95/108"
+            },
+            {
+                "name": "Drattak ex 96/108"
+            },
+            {
+                "name": "Tengalice ex 97/108"
+            },
+            {
+                "name": "Airmure ex 98/108"
+            },
+            {
+                "name": "Kaimorse ex 99/108"
+            },
+            {
+                "name": "Pyroli Star 100/108"
+            },
+            {
+                "name": "Voltali Star 101/108"
+            },
+            {
+                "name": "Aquali Star 102/108"
+            },
+            {
+                "name": "\u00c9nergie Plante 103/108"
+            },
+            {
+                "name": "\u00c9nergie Feu 104/108"
+            },
+            {
+                "name": "Energie Eau 105/108"
+            },
+            {
+                "name": "\u00c9nergie Electrique 106/108"
+            },
+            {
+                "name": "\u00c9nergie Psy 107/108"
+            },
+            {
+                "name": "\u00c9nergie Combat 108/108"
+            }
+        ]
+    }
+]

@@ -2,25 +2,33 @@
   "name": "ebay-price-tracker",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "addData": "ts-node scripts/addPokemonData.ts"
   },
   "dependencies": {
+    "@babel/plugin-transform-runtime": "^7.24.7",
+    "@babel/runtime": "^7.24.7",
+    "dotenv": "^16.4.5",
     "firebase": "^10.12.2",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
+    "react-icons": "^5.2.1",
     "sass": "^1.77.5"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.24.7",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
-    "typescript": "^5"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
   }
 }

@@ -4,15 +4,16 @@ import AddSectionForm from '../components/AddSectionForm';
 import AuthForm from '../components/AuthForm';
 import useSections from '../hooks/useSections';
 import styles from '../styles/Home.module.scss';
+import '../styles/globals.scss';
 
 const Home: React.FC = () => {
-    const { sections, addSection, addItemToSection } = useSections();
+    const { sections, addSection, addItemToSection, deleteSection, deleteItemFromSection } = useSections();
 
     return (
         <div className={styles.container}>
         <div className={styles.container__header}>
             <div className={styles.container__header__section}>
-            <h1>Welcome to Ebay Price Tracker</h1>
+            <h1>Bienvenue sur TCG Market Value</h1>
             <AddSectionForm addSection={addSection} />
             </div>
             <div className={styles.container__header__login}>
@@ -21,12 +22,14 @@ const Home: React.FC = () => {
         </div>
         <div className={styles.sections}>
             {sections.map(section => (
-            <Section
+                <Section
                 key={section.id}
                 id={section.id}
                 title={section.title}
                 items={section.items}
                 addItem={addItemToSection}
+                deleteSection={deleteSection}
+                deleteItem={deleteItemFromSection}
             />
             ))}
         </div>

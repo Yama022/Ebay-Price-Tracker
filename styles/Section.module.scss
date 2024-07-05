@@ -1,6 +1,32 @@
 .section {
-    border: 1px solid #ccc;
+    border: 2px solid #2866AE;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px #2866AE;
     margin: 10px;
     padding: 10px;
     flex: 1;
+    position: relative;
+
+    h2 {
+        color: #2866AE;
+        margin-top: 0;
+    }
+
+    &__delete {
+        position: absolute;
+        top: 5%;
+        right: 1%;
+        padding: 5px 10px;
+        margin: 5px;
+        background-color: #ff0000;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+        font-size: 1em;
+        &:hover {
+            background-color: 	#cc0000;
+        }
+    }
 }

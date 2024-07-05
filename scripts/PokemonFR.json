@@ -1,0 +1,168 @@
+{
+    "language" : "fr",
+    "nameTCG" : "PokémonFr",
+    "blocks" : [
+        {
+            "name": "Écarlate et Violet",
+            "series": [
+                { "name": "Écarlate et Violet", "releaseDate": "31 mars 2023", "cardCount": 198, "abbreviation": "EV01" },
+                { "name": "Évolutions à Paldea", "releaseDate": "9 juin 2023", "cardCount": 279, "abbreviation": "EV02" },
+                { "name": "Flammes Obsidiennes", "releaseDate": "11 août 2023", "cardCount": 230, "abbreviation": "EV03" },
+                { "name": "Pokémon 151", "releaseDate": "22 septembre 2023", "cardCount": 160, "abbreviation": "EV3.5" },
+                { "name": "Faille Paradoxe", "releaseDate": "3 novembre 2023", "cardCount": 266, "abbreviation": "EV04" },
+                { "name": "Destinées de Paldea", "releaseDate": "26 janvier 2024", "cardCount": 245, "abbreviation": "EV4.5" },
+                { "name": "Forces Temporelles", "releaseDate": "22 mars 2024", "cardCount": 218, "abbreviation": "EV05" },
+                { "name": "Mascarade Crépusculaire", "releaseDate": "24 mai 2024", "cardCount": 200, "abbreviation": "EV06" }
+            ]
+        },
+        {
+            "name": "Épée et Bouclier",
+            "series": [
+                { "name": "Épée et Bouclier", "releaseDate": "7 février 2020", "cardCount": 216, "abbreviation": "EB01" },
+                { "name": "Clash des Rebelles", "releaseDate": "1 mai 2020", "cardCount": 209, "abbreviation": "EB02" },
+                { "name": "Ténèbres Embrasées", "releaseDate": "14 août 2020", "cardCount": 201, "abbreviation": "EB03" },
+                { "name": "La Voie du Maître", "releaseDate": "25 septembre 2020", "cardCount": 80, "abbreviation": "EB3.5" },
+                { "name": "Voltage Éclatant", "releaseDate": "13 novembre 2020", "cardCount": 203, "abbreviation": "EB04" },
+                { "name": "Destinées Radieuses", "releaseDate": "21 février 2021", "cardCount": 195, "abbreviation": "EB4.5" },
+                { "name": "Styles de Combat", "releaseDate": "19 mars 2021", "cardCount": 183, "abbreviation": "EB05" },
+                { "name": "Règne de Glace", "releaseDate": "18 juin 2021", "cardCount": 233, "abbreviation": "EB06" },
+                { "name": "Évolution Céleste", "releaseDate": "27 août 2021", "cardCount": 237, "abbreviation": "EB07" },
+                { "name": "Célébrations", "releaseDate": "8 octobre 2021", "cardCount": 50, "abbreviation": "EB7.5" },
+                { "name": "Poing de Fusion", "releaseDate": "12 novembre 2021", "cardCount": 284, "abbreviation": "EB08" },
+                { "name": "Stars Étincelantes", "releaseDate": "25 février 2022", "cardCount": 216, "abbreviation": "EB09" },
+                { "name": "Astres Radieux", "releaseDate": "27 mai 2022", "cardCount": 246, "abbreviation": "EB10" },
+                { "name": "Pokémon GO", "releaseDate": "1 juillet 2022", "cardCount": 88, "abbreviation": "EB10.5" },
+                { "name": "Origine Perdue", "releaseDate": "9 septembre 2022", "cardCount": 247, "abbreviation": "EB11" },
+                { "name": "Tempête Argentée", "releaseDate": "11 novembre 2022", "cardCount": 245, "abbreviation": "EB12" },
+                { "name": "Zénith Suprême", "releaseDate": "27 février 2023", "cardCount": 230, "abbreviation": "EB12.5" }
+            ]
+        },
+        {
+            "name": "Soleil et Lune",
+            "series": [
+                { "name": "Soleil et Lune", "releaseDate": "3 février 2017", "cardCount": 163, "abbreviation": "SL01" },
+                { "name": "Gardiens Ascendants", "releaseDate": "13 mai 2017", "cardCount": 169, "abbreviation": "SL02" },
+                { "name": "Ombres Ardentes", "releaseDate": "19 août 2017", "cardCount": 169, "abbreviation": "SL03" },
+                { "name": "Légendes Brillantes", "releaseDate": "20 octobre 2017", "cardCount": 78, "abbreviation": "SL3.5" },
+                { "name": "Invasion Carmin", "releaseDate": "4 novembre 2017", "cardCount": 124, "abbreviation": "SL04" },
+                { "name": "Ultra Prisme", "releaseDate": "2 février 2018", "cardCount": 173, "abbreviation": "SL05" },
+                { "name": "Lumière Interdite", "releaseDate": "4 mai 2018", "cardCount": 146, "abbreviation": "SL06" },
+                { "name": "Tempête Céleste", "releaseDate": "3 août 2018", "cardCount": 183, "abbreviation": "SL07" },
+                { "name": "Majesté des Dragons", "releaseDate": "7 septembre 2018", "cardCount": 78, "abbreviation": "SL7.5" },
+                { "name": "Tonnerre Perdu", "releaseDate": "2 novembre 2018", "cardCount": 236, "abbreviation": "SL08" },
+                { "name": "Duo de Choc", "releaseDate": "1 février 2019", "cardCount": 196, "abbreviation": "SL09" },
+                { "name": "Alliance Infaillible", "releaseDate": "3 mai 2019", "cardCount": 234, "abbreviation": "SL10" },
+                { "name": "Harmonie des Esprits", "releaseDate": "2 août 2019", "cardCount": 258, "abbreviation": "SL11" },
+                { "name": "Destinées Occultes", "releaseDate": "23 août 2019", "cardCount": 163, "abbreviation": "SL11.5" },
+                { "name": "Éclipse Cosmique", "releaseDate": "1 novembre 2019", "cardCount": 271, "abbreviation": "SL12" }
+            ]
+            },
+            {
+            "name": "XY",
+            "series": [
+                { "name": "Bienvenue à Kalos", "releaseDate": "8 novembre 2013", "cardCount": 39, "abbreviation": "XY0" },
+                { "name": "XY", "releaseDate": "22 février 2014", "cardCount": 146, "abbreviation": "XY1" },
+                { "name": "Étincelles", "releaseDate": "27 mai 2014", "cardCount": 109, "abbreviation": "XY2" },
+                { "name": "Poings Furieux", "releaseDate": "23 août 2014", "cardCount": 113, "abbreviation": "XY3" },
+                { "name": "Vigueur Spectrale", "releaseDate": "8 novembre 2014", "cardCount": 122, "abbreviation": "XY4" },
+                { "name": "Primo Choc", "releaseDate": "2 février 2015", "cardCount": 164, "abbreviation": "XY5" },
+                { "name": "Double Danger", "releaseDate": "22 août 2015", "cardCount": 34, "abbreviation": "XY5.5" },
+                { "name": "Ciel Rugissant", "releaseDate": "23 mai 2015", "cardCount": 110, "abbreviation": "XY6" },
+                { "name": "Origines Antiques", "releaseDate": "22 août 2015", "cardCount": 100, "abbreviation": "XY7" },
+                { "name": "Impulsion Turbo", "releaseDate": "7 novembre 2015", "cardCount": 164, "abbreviation": "XY8" },
+                { "name": "Rupture Turbo", "releaseDate": "6 février 2016", "cardCount": 123, "abbreviation": "XY9" },
+                { "name": "Générations", "releaseDate": "19 mars 2016", "cardCount": 115, "abbreviation": "XY9.5" },
+                { "name": "Impact des Destins", "releaseDate": "7 mai 2016", "cardCount": 125, "abbreviation": "XY10" },
+                { "name": "Offensive Vapeur", "releaseDate": "16 août 2016", "cardCount": 116, "abbreviation": "XY11" },
+                { "name": "Evolutions", "releaseDate": "16 septembre 2016", "cardCount": 113, "abbreviation": "XY12" }
+            ]
+        },
+        {
+            "name": "Noir et Blanc",
+                "series": [
+                    { "name": "Noir & Blanc", "releaseDate": "25 mai 2011", "cardCount": 115, "abbreviation": "BW1" },
+                    { "name": "Pouvoirs Émergents", "releaseDate": "28 septembre 2011", "cardCount": 98, "abbreviation": "BW1.5" },
+                    { "name": "Nobles Victoires", "releaseDate": "14 janvier 2012", "cardCount": 102, "abbreviation": "BW2" },
+                    { "name": "Destinées Futures", "releaseDate": "24 mars 2012", "cardCount": 103, "abbreviation": "BW3" },
+                    { "name": "Explorateurs Obscurs", "releaseDate": "25 août 2012", "cardCount": 111, "abbreviation": "BW4" },
+                    { "name": "Dragons Exaltés", "releaseDate": "10 novembre 2012", "cardCount": 128, "abbreviation": "BW5" },
+                    { "name": "Coffre des Dragons", "releaseDate": "29 septembre 2012", "cardCount": 21, "abbreviation": "BW6" },
+                    { "name": "Frontières Franchies", "releaseDate": "16 février 2013", "cardCount": 153, "abbreviation": "BW7" },
+                    { "name": "Tempête Plasma", "releaseDate": "8 mai 2013", "cardCount": 138, "abbreviation": "BW8" },
+                    { "name": "Glaciation Plasma", "releaseDate": "14 août 2013", "cardCount": 122, "abbreviation": "BW9" },
+                    { "name": "Explosion Plasma", "releaseDate": "6 novembre 2013", "cardCount": 105, "abbreviation": "BW10" }
+                ]
+            },
+            {
+                "name": "L'appel des légendes",
+                "series": [
+                    { "name": "L'Appel des Légendes", "releaseDate": "26 mars 2011", "cardCount": 106, "abbreviation": "AL1" }
+                ]
+            },
+            {
+                "name": "HeartGold SoulSilver",
+                "series": [
+                    { "name": "HeartGold SoulSilver", "releaseDate": "5 mai 2010", "cardCount": 124, "abbreviation": "HS1" },
+                    { "name": "Déchaînement", "releaseDate": "20 août 2010", "cardCount": 96, "abbreviation": "HS2" },
+                    { "name": "Indomptable", "releaseDate": "6 novembre 2010", "cardCount": 120, "abbreviation": "HS3" },
+                    { "name": "Triomphe", "releaseDate": "29 janvier 2011", "cardCount": 103, "abbreviation": "HS4" }
+                ]
+            },
+            {
+                "name": "Platine",
+                "series": [
+                    { "name": "Platine", "releaseDate": "18 août 2009", "cardCount": 133, "abbreviation": "PL1" },
+                    { "name": "Rivaux Émergents", "releaseDate": "6 novembre 2009", "cardCount": 120, "abbreviation": "PL2" },
+                    { "name": "Vainqueurs Suprêmes", "releaseDate": "11 février 2010", "cardCount": 162, "abbreviation": "PL3" }
+                ]
+            },
+            {
+                "name": "Diamant et Perle",
+                "series": [
+                    { "name": "Diamant et Perle", "releaseDate": "9 novembre 2007", "cardCount": 130, "abbreviation": "DP1" },
+                    { "name": "Trésors Mystérieux", "releaseDate": "15 février 2008", "cardCount": 124, "abbreviation": "DP2" },
+                    { "name": "Merveilles Secrètes", "releaseDate": "16 mai 2008", "cardCount": 182, "abbreviation": "DP3" },
+                    { "name": "Duels au Sommet", "releaseDate": "29 août 2008", "cardCount": 106, "abbreviation": "DP4" },
+                    { "name": "Aube Majestueuse", "releaseDate": "7 novembre 2008", "cardCount": 100, "abbreviation": "DP5" },
+                    { "name": "Éveil des Légendes", "releaseDate": "10 février 2009", "cardCount": 146, "abbreviation": "DP6" },
+                    { "name": "Tempête", "releaseDate": "15 mai 2009", "cardCount": 106, "abbreviation": "DP7" }
+                ]
+            },
+            {
+                "name": "EX",
+                "series": [
+                    { "name" : "Rubis & Saphir", "releaseDate": "12 décembre 2003", "cardCount": 109, "abbreviation": "EX1" },
+                    { "name" : "Tempête de sable", "releaseDate": "12 mars 2004", "cardCount": 100, "abbreviation": "EX2" },
+                    { "name" : "Dragon", "releaseDate": "28 août 2004", "cardCount": 100, "abbreviation": "EX3" },
+                    { "name" : "Légendes Oubliées", "releaseDate": "9 décembre 2005", "cardCount": 102, "abbreviation": "EX" },
+                    { "name" : "Rouge Feu & Vert Feuille", "releaseDate": "10 novembre 2005", "cardCount": 116, "abbreviation": "EX5" },
+                    { "name" : "Deoxys", "releaseDate": "27 mai 2005", "cardCount": 108, "abbreviation": "EX6" },
+                    { "name" : "Team Magma vs Team Aqua", "releaseDate": "23 mars 2004", "cardCount": 95, "abbreviation": "EX7" },
+                    { "name" : "Émeraude", "releaseDate": "26 août 2005", "cardCount": 107, "abbreviation": "EX8" },
+                    { "name" : "Forces Cachées", "releaseDate": "24 mars 2006", "cardCount": 145, "abbreviation": "EX9" },
+                    { "name" : "Espèces Delta", "releaseDate": "9 juin 2006", "cardCount": 114, "abbreviation": "EX10" },
+                    { "name" : "Créateurs de Légendes", "releaseDate": "1 septembre 2006", "cardCount": 93, "abbreviation": "EX11" },
+                    { "name" : "Fantômes Holon", "releaseDate": "19 novembre 2006", "cardCount": 111, "abbreviation": "EX12" },
+                    { "name" : "Gardiens de Cristal", "releaseDate": "9 février 2007", "cardCount": 100, "abbreviation": "EX13" },
+                    { "name" : "Îles des Dragons", "releaseDate": "18 mai 2007", "cardCount": 101, "abbreviation": "EX14" },
+                    { "name" : "Gardiens du Pouvoir", "releaseDate": "24 août 2008", "cardCount": 108, "abbreviation": "EX15" }
+                ]
+            },
+            {
+                "name": "Wizards",
+                "series": [
+                    { "name" : "Set de Base", "releaseDate": "18 novembre 1999", "cardCount": 102, "abbreviation": "W1ED1" },
+                    { "name" : "Jungle", "releaseDate": "1 juillet 2000", "cardCount": 64, "abbreviation": "W2" },
+                    { "name" : "Fossile", "releaseDate": "1 novembre 2000", "cardCount": 62, "abbreviation": "W3" },
+                    { "name" : "Set de Base 2", "releaseDate": "18 novembre 1999", "cardCount": 102, "abbreviation": "W1ED2" },
+                    { "name" : "Team Rocket", "releaseDate": "1 mars 2001", "cardCount": 83, "abbreviation": "W4" },
+                    { "name" : "Neo Genesis", "releaseDate": "20 mai 2001", "cardCount": 111, "abbreviation": "W5" },
+                    { "name" : "Neo Discovery", "releaseDate": "15 octobre 2001", "cardCount": 75, "abbreviation": "W6" },
+                    { "name" : "Neo Revelation", "releaseDate": "1 janvier 2002", "cardCount": 66, "abbreviation": "W7" },
+                    { "name" : "Neo Destiny", "releaseDate": "1 juin 2002", "cardCount": 113, "abbreviation": "W8" },
+                    { "name" : "Expédition", "releaseDate": "9 mars 2003", "cardCount": 165, "abbreviation": "W9" },
+                    { "name" : "Aquapolis", "releaseDate": "1 juillet 2003", "cardCount": 186, "abbreviation": "W10" }
+                ]
+            }
+    ]
+}

@@ -1,12 +1,20 @@
 .itemForm {
     margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 
-input {
-    margin-right: 10px;
-    padding: 5px;
-}
+    input {
+        margin-right: 10px;
+        padding: 5px;
+    }
 
-button {
-    padding: 5px 10px;
-}
+    button {
+        position: absolute;
+        left: 52%;
+        top: 49%;
+        padding: .5em 1em;
+        // margin-left: 1em;
+        width: 15%;
+    }
 }

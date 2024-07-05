@@ -8,7 +8,7 @@ interface ItemProps {
 const Item: React.FC<ItemProps> = ({ item }) => {
     return (
         <li className={styles.item}>
-        {item.name}: {item.price} €
+            {item.name}: {item.price} €
         </li>
     );
 };
