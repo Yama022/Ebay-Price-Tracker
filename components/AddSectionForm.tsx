@@ -46,7 +46,7 @@ const AddSectionForm: React.FC<AddSectionFormProps> = ({ addSection }) => {
 
     return (
         <form onSubmit={handleSubmit} className={styles.addSectionForm}>
-            <h4>Ajoute un TCG au choix parmis la liste suivante</h4>
+            <h4>Ajoute un TCG au choix parmi la liste suivante</h4>
             <div ref={selectRef} className="customSelectContainer">
                 <div className="customSelect" onClick={toggleSelect}>
                     <div className="customSelectTrigger">

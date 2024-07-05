@@ -3,18 +3,20 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
+    position: relative;
 
     input {
-        margin-right: 10px;
-        padding: 5px;
+        // margin-right: 10px;
+        padding: .5em;
+        width: 7%;
     }
 
-    button {
+    &__submitButton {
         position: absolute;
         left: 52%;
         top: 49%;
         padding: .5em 1em;
-        // margin-left: 1em;
         width: 15%;
     }
+
 }

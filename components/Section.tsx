@@ -4,6 +4,7 @@ import ItemList from './ItemList';
 import { Item } from '../hooks/useSections';
 import { RxCross1 } from "react-icons/rx";
 import styles from '../styles/Section.module.scss';
+import '../styles/globals.scss';
 
 interface SectionProps {
     id: string;
@@ -30,7 +31,7 @@ const Section: React.FC<SectionProps> = ({ id, title, items, addItem, deleteSect
             <h2>{title}</h2>
             <ItemForm addItem={handleAddItem} sectionTitle={title} />
             <ItemList items={items} sectionId={id} deleteItem={deleteItem} />
-            <button onClick={handleDeleteSection} className={styles.section__delete}><RxCross1 /></button>
+            <button onClick={handleDeleteSection} className={`deleteButton ${styles.deleteSection}`}><RxCross1 /></button>
         </div>
     );
 };

@@ -14,7 +14,7 @@ padding: 20px;
 
 select {
     padding: .5em;
-    font-size: 16px;
+    font-size: 1em;
     border-radius: 5px;
     background-color: #f8f8f8;
     color: #333;
@@ -38,8 +38,8 @@ option {
 }
 
 button {
-    padding: 10px 20px;
-    font-size: 16px;
+    padding: .8em 1.5em;
+    font-size: 1em;
     border: none;
     border-radius: 5px;
     background-color: $blueLight;
@@ -57,7 +57,7 @@ button {
 
     .customSelectTrigger {
         padding: .5em;
-        font-size: 16px;
+        font-size: 1em;
         border-radius: 5px;
         background-color: #f8f8f8;
         color: #333;
@@ -69,7 +69,7 @@ button {
         &:after {
             content: '▼';
             margin-left: auto;
-            padding-left: 10px;
+            padding-left: .8em;
         }
     }
 
@@ -81,7 +81,7 @@ button {
         background-color: #fff;
         border: 1px solid #ccc;
         border-radius: 5px;
-        max-height: 200px;
+        max-height: 12em;
         overflow-y: auto;
         z-index: 10;
 
@@ -100,5 +100,24 @@ button {
 
     .customSelect.open .customOptions {
         display: block;
+    }
+}
+
+
+.deleteButton {
+    position: absolute;
+    top: 5%;
+    right: 0;
+    padding: .3em .5em;
+    margin: .3em;
+    background-color: $redLight;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1em;
+    &:hover {
+        background-color: $redDark;
     }
 }

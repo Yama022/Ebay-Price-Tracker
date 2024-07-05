@@ -1,4 +1,12 @@
+@import 'variables';
+
 .itemList {
     list-style-type: none;
     padding: 0;
+    
+
+    &__list {
+        position: relative;
+    }
+
 }

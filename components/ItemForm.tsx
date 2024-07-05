@@ -33,10 +33,12 @@ const ItemForm: React.FC<ItemFormProps> = ({ addItem, sectionTitle }) => {
 
     const handleSelectBlock = async (e: React.ChangeEvent<HTMLSelectElement>) => {
         const block = e.target.value;
-        setSelectedBlock(block);
+        console.log(sectionTitle, 'block');
+        const blockSelect = block.toLowerCase().replace(/ /g, '-');
+        setSelectedBlock(blockSelect);
         setIsBlockOpen(false);
         try {
-            const response = await fetch(`/data/${block}.json`);
+            const response = await fetch(`/data/${blockSelect}.json`);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
@@ -72,6 +74,7 @@ const ItemForm: React.FC<ItemFormProps> = ({ addItem, sectionTitle }) => {
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
+        console.log(e.target);
         if (selectedCard.trim() && price.trim()) {
             const newItem: Item = {
                 id: Math.random().toString(36).substr(2, 9),
@@ -169,13 +172,19 @@ const ItemForm: React.FC<ItemFormProps> = ({ addItem, sectionTitle }) => {
             {selectedCard && (
                 <input
                     type="text"
-                    placeholder="Prix de l'item"
+                    placeholder="Prix en €"
                     value={price}
                     onChange={(e) => setPrice(e.target.value)}
                     className={styles.priceInput}
                 />
+                
             )}
-            <button type="submit" className={styles.submitButton}>Ajouter</button>
+
+            {selectedCard && price && (
+                <button type="submit" className={styles.itemForm__submitBbutton}>Ajouter</button>
+            )    
+            }
+            
         </form>
     );
 };
