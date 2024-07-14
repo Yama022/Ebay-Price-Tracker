@@ -1,5 +1,6 @@
 @import 'variables';
 
+
 .container {
     display: flex;
     flex-direction: column;
@@ -15,6 +16,7 @@
             margin: auto;
             h1 {
                 color: 	$redLight;
+                font-size: 3em;
             }
         }
         

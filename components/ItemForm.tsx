@@ -1,5 +1,6 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, ChangeEvent, useEffect } from 'react';
 import { Item } from '../hooks/useSections';
+import { Input, Select, SelectItem, RadioGroup, Radio } from "@nextui-org/react";
 import styles from '../styles/ItemForm.module.scss';
 import '../styles/globals.scss';
 
@@ -8,183 +9,177 @@ interface ItemFormProps {
     sectionTitle: string;
 }
 
-interface Card {
-    name: string;
-}
-
-interface Serie {
-    serie: string;
-    cartes: Card[];
+export interface gradedCard {
+    society: string;
+    note: number | string;
+    value: number | null;
 }
 
 const ItemForm: React.FC<ItemFormProps> = ({ addItem, sectionTitle }) => {
     const [price, setPrice] = useState('');
-    const [selectedBlock, setSelectedBlock] = useState('');
-    const [seriesData, setSeriesData] = useState<Serie[]>([]);
-    const [selectedSerie, setSelectedSerie] = useState('');
-    const [cards, setCards] = useState<Card[]>([]);
-    const [selectedCard, setSelectedCard] = useState('');
-    const [isBlockOpen, setIsBlockOpen] = useState(false);
-    const [isSerieOpen, setIsSerieOpen] = useState(false);
-    const [isCardOpen, setIsCardOpen] = useState(false);
+    const [cardName, setCardName] = useState('');
+    const [gradedCard, setGradedCard] = useState('non');
+    const [notes, setNotes] = useState<(number | string)[]>([]);
+    const [gradedCardValue, setGradedCardValue] = useState<gradedCard>({ society: '', note: 0, value: null });
+    const [isGradedCardOpen, setIsGradedCardOpen] = useState(false);
+    const [selectedSociety, setSelectedSociety] = useState('');
 
-    const blockPokemonSelect = ["Ecarlate et Violet", "Epée et Bouclier", "Soleil et Lune", "XY", "Noir et Blanc", "Appel des légendes", "HeartGold SoulSilver", "Platine", "Diamant et Perle", "Ex", "Wizards", "Promo"];
-    const blockOnePieceSelect = ["OP01", "OP02", "OP03", "OP04", "OP05", "OP06", "OP07", "EB01", "OP08"];
-
-    const handleSelectBlock = async (e: React.ChangeEvent<HTMLSelectElement>) => {
-        const block = e.target.value;
-        console.log(sectionTitle, 'block');
-        const blockSelect = block.toLowerCase().replace(/ /g, '-');
-        setSelectedBlock(blockSelect);
-        setIsBlockOpen(false);
-        try {
-            const response = await fetch(`/data/${blockSelect}.json`);
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const contentType = response.headers.get("content-type");
-            if (!contentType || !contentType.includes("application/json")) {
-                throw new TypeError("Response is not JSON");
-            }
-            const data: Serie[] = await response.json();
-            setSeriesData(data);
-            setSelectedSerie('');
-            setCards([]);
-            setSelectedCard('');
-            setPrice('');
-        } catch (error) {
-            console.error('Erreur lors du chargement des données:', error);
-            setSeriesData([]);
-        }
-    };
-
-    const handleSelectSerie = (serie: string) => {
-        setSelectedSerie(serie);
-        const selectedSeries = seriesData.find(item => item.serie === serie);
-        setCards(selectedSeries ? selectedSeries.cartes : []);
-        setSelectedCard('');
-        setPrice('');
-        setIsSerieOpen(false);
-    };
-
-    const handleSelectCard = (card: string) => {
-        setSelectedCard(card);
-        setIsCardOpen(false);
-    };
+    const gradationSocieties = ["PSA", "BGS", "CGC", "PCA", "COLLECT AURA", "CCC GRADING", "CGG", "AFG", "SFG", "SCA"];
+    const specialNotesCCC = ["10 pristine - Gold Label", "10 pristine - Black Label"];
+    const specialNotesCGG = ["10 PERFECT", "10+ JEWEL"];
+    const specialNotesSCA = ["10 STAR"];
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
-        console.log(e.target);
-        if (selectedCard.trim() && price.trim()) {
+        if (cardName.trim() && (price.trim() || gradedCardValue.value !== null)) {
             const newItem: Item = {
                 id: Math.random().toString(36).substr(2, 9),
-                name: selectedCard,
-                price,
-                series: sectionTitle
+                name: cardName,
+                price: isGradedCardOpen ? `${gradedCardValue.value} €` : price,
+                series: sectionTitle,
+                society: gradedCardValue.society,
+                note: notes[gradedCardValue.note as number] || gradedCardValue.note,
+                value: gradedCardValue.value
             };
             addItem(newItem);
-            setSelectedCard('');
+            setCardName('');
             setPrice('');
+            setGradedCard('non');
+            setGradedCardValue({ society: '', note: 0, value: null });
+            setIsGradedCardOpen(false);
+            setSelectedSociety('');
         }
     };
+    
 
-    const toggleBlockSelect = () => setIsBlockOpen(!isBlockOpen);
-    const toggleSerieSelect = () => setIsSerieOpen(!isSerieOpen);
-    const toggleCardSelect = () => setIsCardOpen(!isCardOpen);
+    const handleSelectGradedCard = (value: string) => {
+        setGradedCard(value);
+        setIsGradedCardOpen(value === 'oui');
+    };
 
-    const blockSelect = sectionTitle === "Pokémon" ? blockPokemonSelect : blockOnePieceSelect;
-
-    // Handlers for clicks outside the custom selects
-    const blockSelectRef = useRef<HTMLDivElement>(null);
-    const serieSelectRef = useRef<HTMLDivElement>(null);
-    const cardSelectRef = useRef<HTMLDivElement>(null);
-
-    useEffect(() => {
-        const handleClickOutside = (event: MouseEvent) => {
-            if (blockSelectRef.current && !blockSelectRef.current.contains(event.target as Node)) {
-                setIsBlockOpen(false);
-            }
-            if (serieSelectRef.current && !serieSelectRef.current.contains(event.target as Node)) {
-                setIsSerieOpen(false);
-            }
-            if (cardSelectRef.current && !cardSelectRef.current.contains(event.target as Node)) {
-                setIsCardOpen(false);
-            }
-        };
-
-        document.addEventListener('mousedown', handleClickOutside);
-        return () => {
-            document.removeEventListener('mousedown', handleClickOutside);
-        };
-    }, []);
+    const handleSelectSociety = (value: string | Set<string>) => {
+        const societyIndex = Array.from(value instanceof Set ? value : [value])[0] as string;
+        const society = gradationSocieties[parseInt(societyIndex, 10)];
+        setSelectedSociety(society);
+        setGradedCardValue(prev => ({ ...prev, society }));
+    
+        // Update available notes based on selected society
+        let availableNotes: (number | string)[];
+        if (society === 'PCA' || society === 'COLLECT AURA' || society === 'AFG') {
+            availableNotes = [1, 2, 3, 4, 5, 6, 7, 8, 8.5, 9, 9.5, 10];
+        } else if (society === 'CCC GRADING') {
+            availableNotes = [1, 2, 3, 4, 5, 6, 7, 8, 8.5, 9, 9.5, 10, ...specialNotesCCC];
+        } else if (society === 'CGG') {
+            availableNotes = [1, 2, 3, 4, 5, 6, 7, 8, 8.5, 9, 9.5, 10, ...specialNotesCGG];
+        } else if (society === 'SCA') {
+            availableNotes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 9.5, 10, ...specialNotesSCA];
+        } else if (society === 'SFG') {
+            availableNotes = [1, 2, 3, 4, 4.5, 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10];
+        } else {
+            availableNotes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+        }
+        setNotes(availableNotes);
+    };
+    
+    
+    const handleSelectNote = (value: string | number | Set<string>) => {
+        const note = value instanceof Set ? Array.from(value).join(', ') : value;
+        setGradedCardValue(prev => ({ ...prev, note }));
+    };
+    
 
     return (
-        <form onSubmit={handleSubmit} className={styles.itemForm}>
-            <div ref={blockSelectRef} className="customSelectContainer" onClick={toggleBlockSelect}>
-                <div className="customSelectTrigger">
-                    {selectedBlock || `Sélectionnez un bloc ${sectionTitle}`}
+        <form onSubmit={handleSubmit} className='flex flex-col gap-4'>
+            <Input
+                type="text"
+                placeholder="Nom de la carte"
+                value={cardName}
+                onChange={(e: ChangeEvent<HTMLInputElement>) => setCardName(e.target.value)}
+                className='input'
+            />
+            {cardName && (
+                <div className="flex gap-4">
+                    <h4>Est-ce une carte gradée ?</h4>
+                    <div className="flex gap-4">
+                        <RadioGroup 
+                            name="gradedCard"
+                            orientation='horizontal'
+                            value={gradedCard} onChange={(e) => handleSelectGradedCard(e.target.value)}
+                        >
+                            <Radio value="oui">Oui</Radio>
+                            <Radio value="non">Non</Radio>
+                        </RadioGroup>
+                    </div>
                 </div>
-                {isBlockOpen && (
-                    <div className="customOptions">
-                        {blockSelect.map((block, index) => (
-                            <div key={index} className="customOption" onClick={() => handleSelectBlock({ target: { value: block } } as React.ChangeEvent<HTMLSelectElement>)}>
-                                {block}
-                            </div>
+            )}
+
+            {isGradedCardOpen && (
+                <div className="flex flex-col gap-4">
+                    <Select
+                        label="Choisissez une société de gradation"
+                        value={gradationSocieties.indexOf(selectedSociety).toString()}
+                        onSelectionChange={(value) => handleSelectSociety(value as string)}
+                        className="select"
+                    >
+                        {gradationSocieties.map((society, index) => (
+                            <SelectItem key={index} value={index.toString()} textValue={society}>
+                                {society}
+                            </SelectItem>
                         ))}
-                    </div>
-                )}
-            </div>
+                    </Select>
 
-            {seriesData.length > 0 && (
-                <div ref={serieSelectRef} className="customSelectContainer" onClick={toggleSerieSelect}>
-                    <div className="customSelectTrigger">
-                        {selectedSerie || 'Sélectionnez une série'}
-                    </div>
-                    {isSerieOpen && (
-                        <div className="customOptions">
-                            {seriesData.map((item, id) => (
-                                <div key={id} className="customOption" onClick={() => handleSelectSerie(item.serie)}>
-                                    {item.serie}
-                                </div>
+                    {selectedSociety && (
+                        <Select
+                            label="Choisissez une note"
+                            value={gradedCardValue.note.toString()}
+                            onSelectionChange={(value) => handleSelectNote(value as string | number)}
+                            className="select"
+                        >
+                            {notes.map((note, index) => (
+                                <SelectItem key={index} value={note} textValue={note.toString()}>
+                                    {note}
+                                </SelectItem>
                             ))}
-                        </div>
+                        </Select>
                     )}
+
+                    <Input
+                        type="number"
+                        label="Prix"
+                        placeholder="0.00"
+                        labelPlacement="outside"
+                        value={gradedCardValue.value !== null ? gradedCardValue.value.toString() : ''}
+                        onChange={(e) => setGradedCardValue({...gradedCardValue, value: e.target.value ? parseInt(e.target.value) : null})}
+                        className="input-price"
+                        startContent={
+                            <div className="pointer-events-none flex items-center">
+                                <span className="text-default-400 text-small">€</span>
+                            </div>
+                        }
+                    />
                 </div>
             )}
 
-            {cards.length > 0 && (
-                <div ref={cardSelectRef} className="customSelectContainer" onClick={toggleCardSelect}>
-                    <div className="customSelectTrigger">
-                        {selectedCard || 'Sélectionnez une carte'}
-                    </div>
-                    {isCardOpen && (
-                        <div className="customOptions">
-                            {cards.map((card, index) => (
-                                <div key={index} className="customOption" onClick={() => handleSelectCard(card.name)}>
-                                    {card.name}
-                                </div>
-                            ))}
-                        </div>
-                    )}
-                </div>
-            )}
-
-            {selectedCard && (
-                <input
-                    type="text"
-                    placeholder="Prix en €"
+            {cardName && !isGradedCardOpen && (
+                <Input
+                    type="number"
+                    label="Prix"
+                    placeholder="0.00"
+                    labelPlacement="outside"
                     value={price}
-                    onChange={(e) => setPrice(e.target.value)}
-                    className={styles.priceInput}
+                    onChange={(e: ChangeEvent<HTMLInputElement>) => setPrice(e.target.value)}
+                    className="input-price"
+                    startContent={
+                        <div className="pointer-events-none flex items-center">
+                            <span className="text-default-400 text-small">€</span>
+                        </div>
+                    }
                 />
-                
             )}
 
-            {selectedCard && price && (
-                <button type="submit" className={styles.itemForm__submitBbutton}>Ajouter</button>
-            )    
-            }
-            
+            {(cardName && (price || gradedCardValue.value !== null)) && (
+                <button type="submit" className={`${styles.itemForm__submitBbutton} mt-4`}>Ajouter</button>
+            )}
         </form>
     );
 };

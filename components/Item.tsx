@@ -1,15 +1,25 @@
 import React from 'react';
+import { Item as ItemType } from '../hooks/useSections';
 import styles from '../styles/Item.module.scss';
 
 interface ItemProps {
-    item: { name: string; price: string };
+    item: ItemType;
 }
 
 const Item: React.FC<ItemProps> = ({ item }) => {
     return (
-        <li className={styles.item}>
-            {item.name}: {item.price} €
-        </li>
+        <div className={styles.item}>
+            <h3><span>Nom : </span>{item.name}</h3>
+            {item.value === null ? (
+                <p><span>Prix : </span>{item.price} €</p>
+            ) : (
+                <>
+                    {item.society && <p><span>Société de gradation : </span>{item.society}</p>}
+                    {item.note && <p><span>Note : </span>{item.note}</p>}
+                    {item.value !== null && <p><span>Valeur : </span>{item.value} €</p>}
+                </>
+            )}
+        </div>
     );
 };
 

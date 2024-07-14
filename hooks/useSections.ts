@@ -8,6 +8,9 @@ export interface Item {
     name: string;
     price: string;
     series: string;
+    society?: string;
+    note?: number | string;
+    value?: number | null;
 }
 
 interface Section {
