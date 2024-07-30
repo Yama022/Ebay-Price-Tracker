@@ -1,4 +1,5 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState } from 'react';
+import { Select, SelectItem, Button } from "@nextui-org/react";
 import styles from '../styles/AddSectionForm.module.scss';
 import '../styles/globals.scss';
 
@@ -8,9 +9,8 @@ interface AddSectionFormProps {
 
 const AddSectionForm: React.FC<AddSectionFormProps> = ({ addSection }) => {
     const [selectedSection, setSelectedSection] = useState('Pokémon');
-    const [isOpen, setIsOpen] = useState(false);
 
-    const sectionSelect = ['Pokémon', 'One Piece'];
+    const sectionSelect = ['Pokémon', 'One Piece', 'Lorcana', 'Yu-Gi-Oh!', 'Magic The Gathering', 'Dragon Ball'];
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
@@ -20,54 +20,29 @@ const AddSectionForm: React.FC<AddSectionFormProps> = ({ addSection }) => {
         }
     };
 
-    const handleSelectChange = (section: string) => {
-        setSelectedSection(section);
-        setIsOpen(false);
+    const handleSelectChange = (value: string) => {
+        setSelectedSection(value);
     };
-
-    const toggleSelect = () => {
-        setIsOpen(!isOpen);
-    };
-
-    const selectRef = useRef<HTMLDivElement>(null);
-
-    useEffect(() => {
-        const handleClickOutside = (event: MouseEvent) => {
-            if (selectRef.current && !selectRef.current.contains(event.target as Node)) {
-                setIsOpen(false);
-            }
-        };
-
-        document.addEventListener('mousedown', handleClickOutside);
-        return () => {
-            document.removeEventListener('mousedown', handleClickOutside);
-        };
-    }, []);
 
     return (
         <form onSubmit={handleSubmit} className={styles.addSectionForm}>
             <h4>Ajoute un TCG au choix parmi la liste suivante</h4>
-            <div ref={selectRef} className="customSelectContainer">
-                <div className="customSelect" onClick={toggleSelect}>
-                    <div className="customSelectTrigger">
-                        {selectedSection}
-                    </div>
-                    {isOpen && (
-                        <div className="customOptions">
-                            {sectionSelect.map((section, id) => (
-                                <div 
-                                    key={id} 
-                                    className="customOption"
-                                    onClick={() => handleSelectChange(section)}
-                                >
-                                    {section}
-                                </div>
-                            ))}
-                        </div>
-                    )}
-                </div>
+            <div className={styles.customSelectContainer}>
+                <Select 
+                    label="Choisissez une section"
+                    placeholder="Sélectionnez une section"
+                    value={selectedSection}
+                    onChange={(e) => handleSelectChange(e.target.value)}
+                    className={styles.select}
+                >
+                    {sectionSelect.map((section) => (
+                        <SelectItem key={section} value={section} textValue={section}>
+                            {section}
+                        </SelectItem>
+                    ))}
+                </Select>
             </div>
-            <button type="submit">Ajouter une section</button>
+            <Button type="submit" className="mt-4 button">Ajouter une section</Button>
         </form>
     );
 };

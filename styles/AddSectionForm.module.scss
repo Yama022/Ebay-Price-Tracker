@@ -3,7 +3,7 @@
 .addSectionForm {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 1em;
     margin-bottom: 1.5em;
     margin-top: 4em;
 
@@ -11,19 +11,4 @@
         margin: 0;
     }
 
-    button {
-        width: 50%;
-        padding: .5em;
-        font-size: 16px;
-        border-radius: 5px;
-        background-color: $blueLight;
-        color: white;
-        border: none;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-
-        &:hover {
-            background-color: $blueDark;
-        }
-    }
 }

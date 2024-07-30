@@ -2,11 +2,14 @@
     border: 2px solid #2866AE;
     border-radius: 8px;
     box-shadow: 1px 1px 8px #2866AE;
-    margin: 10px;
-    padding: 10px;
-    flex: 1;
+    margin: 1em;
+    padding: 1em;
+    flex: 0 1 30%;
     position: relative;
-
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column; 
+    box-sizing: border-box;
     h2 {
         color: #2866AE;
         font-size: 1.5em;

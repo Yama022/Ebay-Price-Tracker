@@ -1,48 +1,61 @@
 @import 'variables';
 
 
-.container {
+.sections {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
-    margin: auto;
-    width: 80%;
-    &__header {
-        width: 100%;
-        margin: auto;
+    align-items: center;
+    width: 100%;
+    margin-top: 1.5em;
+
+    &__addSection {
+        margin-bottom: 1.5em;
+    }
+
+    &__section {
         display: flex;
-        justify-content: space-between;
-        &__section {
-            margin: auto;
-            h1 {
-                color: 	$redLight;
-                font-size: 3em;
-            }
-        }
-        
-        &__login {
-            
-            display: flex;
-            align-items: flex-end;
-            padding: 10px;
-            margin-top: 0;
-            margin-bottom: auto;
-            input {
-                padding: 5px;
-                margin-right: 10px;
-            }
-            button {
-                padding: 5px 10px;
-                margin-left: 1em;
-            }
-        }
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+        gap: 1.5em;
     }
 }
 
-.sections {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: flex-start;
-    flex-wrap: wrap;
+
+.presentation {
+    margin-top: 1.5em;
+    padding: 1.5em;
+    background-color: #f9f9f9;
+    border-radius: 1em;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+    h1 {
+        color: $blueDark;
+        font-size: 2.5em;
+        margin-bottom: 1.5em;
+    }
+
+    h2 {
+        color: $blueDark;
+        font-size: 2em;
+        margin-top: 1.5em;
+        margin-bottom: 1em;
+    }
+
+    p {
+        font-size: 1.2em;
+        line-height: 1.6em;
+        margin-bottom: 1.5em;
+    }
+
+    ul {
+        list-style-type: disc;
+        margin-left: 1.5em;
+
+        li {
+            font-size: 1.2em;
+            line-height: 1.6em;
+            margin-bottom: 1em;
+        }
+    }
 }

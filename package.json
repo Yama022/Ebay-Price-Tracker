@@ -14,25 +14,32 @@
     "@babel/plugin-transform-runtime": "^7.24.7",
     "@babel/runtime": "^7.24.7",
     "@nextui-org/react": "^2.4.2",
+    "@stripe/react-stripe-js": "^2.7.3",
+    "@stripe/stripe-js": "^4.1.0",
+    "axios": "^1.7.2",
     "dotenv": "^16.4.5",
+    "emailjs-com": "^3.2.0",
     "firebase": "^10.12.2",
+    "firebase-admin": "^12.2.0",
     "framer-motion": "^11.2.14",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.2.1",
-    "sass": "^1.77.5"
+    "react-router-dom": "^6.24.1",
+    "sass": "^1.77.5",
+    "stripe": "^16.2.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.24.7",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.19",
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
     "tailwindcss": "^3.4.4",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.5",
-    "autoprefixer": "^10.4.19"
+    "typescript": "^5.4.5"
   }
 }

@@ -18,6 +18,7 @@ export interface gradedCard {
 const ItemForm: React.FC<ItemFormProps> = ({ addItem, sectionTitle }) => {
     const [price, setPrice] = useState('');
     const [cardName, setCardName] = useState('');
+    const [cardNumber, setCardNumber] = useState('');
     const [gradedCard, setGradedCard] = useState('non');
     const [notes, setNotes] = useState<(number | string)[]>([]);
     const [gradedCardValue, setGradedCardValue] = useState<gradedCard>({ society: '', note: 0, value: null });
@@ -35,7 +36,8 @@ const ItemForm: React.FC<ItemFormProps> = ({ addItem, sectionTitle }) => {
             const newItem: Item = {
                 id: Math.random().toString(36).substr(2, 9),
                 name: cardName,
-                price: isGradedCardOpen ? `${gradedCardValue.value} €` : price,
+                number: cardNumber,
+                price: isGradedCardOpen ? `${gradedCardValue.value} €` : `${price} €`,
                 series: sectionTitle,
                 society: gradedCardValue.society,
                 note: notes[gradedCardValue.note as number] || gradedCardValue.note,
@@ -43,6 +45,7 @@ const ItemForm: React.FC<ItemFormProps> = ({ addItem, sectionTitle }) => {
             };
             addItem(newItem);
             setCardName('');
+            setCardNumber('');
             setPrice('');
             setGradedCard('non');
             setGradedCardValue({ society: '', note: 0, value: null });
@@ -92,18 +95,31 @@ const ItemForm: React.FC<ItemFormProps> = ({ addItem, sectionTitle }) => {
         <form onSubmit={handleSubmit} className='flex flex-col gap-4'>
             <Input
                 type="text"
-                placeholder="Nom de la carte"
+                label="Nom de la carte"
+                placeholder="ex: Pikachu"
                 value={cardName}
                 onChange={(e: ChangeEvent<HTMLInputElement>) => setCardName(e.target.value)}
                 className='input'
             />
             {cardName && (
+                <Input
+                type="text"
+                placeholder="ex: OP01-001"
+                label="Numéro de la carte"
+                value={cardNumber}
+                onChange={(e: ChangeEvent<HTMLInputElement>) => setCardNumber(e.target.value)}
+                className='input'
+                />)
+            }
+            
+            {cardNumber && (
                 <div className="flex gap-4">
-                    <h4>Est-ce une carte gradée ?</h4>
+                    {/* <h4>Est-ce une carte gradée ?</h4> */}
                     <div className="flex gap-4">
                         <RadioGroup 
                             name="gradedCard"
                             orientation='horizontal'
+                            label="Carte gradée ?"
                             value={gradedCard} onChange={(e) => handleSelectGradedCard(e.target.value)}
                         >
                             <Radio value="oui">Oui</Radio>

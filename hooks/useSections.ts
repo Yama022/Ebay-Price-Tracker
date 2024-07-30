@@ -6,6 +6,7 @@ import { onAuthStateChanged, User } from 'firebase/auth';
 export interface Item {
     id: string;
     name: string;
+    number: string;
     price: string;
     series: string;
     society?: string;

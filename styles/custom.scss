@@ -1,0 +1,10 @@
+/* Désactivez ou personnalisez les classes par défaut de NextUI ici */
+.justify-center {
+    // justify-content: flex-start !important;
+    display: flex !important;
+    justify-content: center !important;
+    // border: 1px solid red;
+}
+
+
+/* Autres personnalisations */

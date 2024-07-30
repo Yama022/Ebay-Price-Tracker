@@ -1,6 +1,6 @@
 // utils/firebaseConfig.js
 
-import { initializeApp } from 'firebase/app';
+import { initializeApp, getApps, getApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
@@ -14,15 +14,15 @@ const firebaseConfig = {
     measurementId: process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID
 };
 
-initializeApp(firebaseConfig);
-const auth = getAuth();
-const db = getFirestore();
+const app = !getApps().length ? initializeApp(firebaseConfig) : getApp();
+const auth = getAuth(app);
+const db = getFirestore(app);
 
 if (typeof window !== "undefined") {
     import('firebase/analytics').then(({ getAnalytics, isSupported }) => {
         isSupported().then((supported) => {
             if (supported) {
-                const analytics = getAnalytics();
+                const analytics = getAnalytics(app);
                 console.log("Analytics initialized");
             } else {
                 console.log("Analytics not supported");
@@ -34,11 +34,3 @@ if (typeof window !== "undefined") {
 }
 
 export { auth, db };
-
-
-
-
-
-
-
-

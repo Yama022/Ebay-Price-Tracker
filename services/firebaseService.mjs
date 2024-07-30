@@ -1,5 +1,6 @@
 // services/firebaseService.ts
 import { collection, addDoc } from "firebase/firestore";
+import { getAuth, updatePassword as firebaseUpdatePassword } from "firebase/auth";
 import { db } from "../utils/firebaseConfig.mjs";
 
 export const addLanguageWithBlocks = async (collectionName, languageName, tcgName, blocks) => {
@@ -42,5 +43,33 @@ export const deleteItemFromSection = async (sectionId, itemId) => {
         console.log("Item deleted successfully");
     } catch (e) {
         console.error("Error deleting item: ", e);
+    }
+};
+
+export const getUserData = async (userId) => {
+    try {
+        const userRef = doc(db, "users", userId);
+        const userSnapshot = await getDoc(userRef);
+
+        if (userSnapshot.exists()) {
+            console.log("User data:", userSnapshot.data());
+            return userSnapshot.data();
+        } else {
+            console.log("No such user!");
+            return null;
+        }
+    } catch (e) {
+        console.error("Error getting user data: ", e);
+        return null;
+    }
+};
+
+export const updatePassword = async (currentUser, newPassword) => {
+    try {
+        const auth = getAuth();
+        await updatePassword(currentUser, newPassword);
+        console.log("Password updated successfully");
+    } catch (e) {
+        console.error("Error updating password: ", e);
     }
 };

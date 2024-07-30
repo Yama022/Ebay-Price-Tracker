@@ -10,8 +10,9 @@ const Item: React.FC<ItemProps> = ({ item }) => {
     return (
         <div className={styles.item}>
             <h3><span>Nom : </span>{item.name}</h3>
+            <p><span>Numéro : </span>{item.number}</p>
             {item.value === null ? (
-                <p><span>Prix : </span>{item.price} €</p>
+                <p><span>Valeur : </span>{item.price}</p>
             ) : (
                 <>
                     {item.society && <p><span>Société de gradation : </span>{item.society}</p>}

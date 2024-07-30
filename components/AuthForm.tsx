@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { auth, db } from '../utils/firebaseConfig.mjs';
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword, onAuthStateChanged, signOut, User } from 'firebase/auth';
+import { Button, NavbarItem, Link } from "@nextui-org/react";
 import { doc, setDoc, getDoc } from 'firebase/firestore';
+import {Avatar} from "@nextui-org/react";
 import styles from '../styles/AuthForm.module.scss';
 
 const AuthForm: React.FC = () => {
@@ -71,8 +73,13 @@ const AuthForm: React.FC = () => {
         <div className={styles.authForm}>
             {user ? (
                 <>
-                    <h2>Bienvenue, {userName}!</h2>
-                    <button onClick={handleLogout}>Déconnexion</button>
+                    <NavbarItem>
+                        <Link href="/profile">
+                            <Avatar showFallback name={userName} src='https://images.unsplash.com/broken' />
+                        </Link>
+                    </NavbarItem>
+                    
+                    <Button onClick={handleLogout} size='sm' className={styles.logoutButton}>Déconnexion</Button>
                 </>
             ) : (
                 <>
