@@ -52,4 +52,4 @@ def search_ebay():
         return jsonify({"error": "Failed to fetch data from eBay"}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0', port=5002)

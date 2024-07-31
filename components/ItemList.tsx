@@ -46,7 +46,7 @@ const ItemList: React.FC<ItemListProps> = ({ sectionId, items, deleteItem }) => 
             const pricesList = [];
             for (const item of items) {
                 try {
-                    const response = await axios.post('http://localhost:5000/search_ebay', {
+                    const response = await axios.post('http://localhost:5002/search_ebay', {
                         name: item.name,
                         number: item.number,
                         society: item.society,
