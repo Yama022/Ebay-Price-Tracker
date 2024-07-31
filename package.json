@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
-    "dock": "docker-compose up --build",
+    "dock": "docker-compose up",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
